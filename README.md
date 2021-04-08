@@ -1,5 +1,5 @@
 # List Of Shame (MCVN Edition)
-Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ gì) có tiếng xấu trong cộng đồng Minecraft Việt Nam
+> Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ gì) có tiếng xấu trong cộng đồng Minecraft Việt Nam
 
 * Placeholder 1, "quote" - description
 * Placeholder 2, "quote" - description
