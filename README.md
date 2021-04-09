@@ -1,5 +1,5 @@
 # List Of Shame (MCVN Edition)
-> Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ gì) gây tranh cãi trong cộng đồng Minecraft Việt Nam
+Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ gì) gây tranh cãi trong cộng đồng Minecraft Việt Nam
 
 * [ChestCommands](https://dev.bukkit.org/projects/chest-commands)
   > Plugin Menu đơn giản nhất, nhưng xóa mất PlayerPoints
