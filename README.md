@@ -20,7 +20,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 
 * **Một cách để dễ dàng để ăn tiền của người chơi mà không biết rằng họ đã vi phạm rất nhiều điều khoản trong [EULA](https://account.mojang.com/documents/minecraft_eula). Đáng buồn thay, offline-mode server có thể *lách luật* một cách dễ dàng.**
 
-### [Server optimization](https://minecraftvn.net/tut-tps.t32218/)
+### [Tối ưu Server](https://minecraftvn.net/tut-tps.t32218/)
 > Thêm nhiều tính năng độc lạ và sử dụng các plugin gây lag để 'giảm lag' (e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg))
 
 * **Yatopia**
