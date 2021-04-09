@@ -11,7 +11,9 @@
   > bEst pVP, nhưng nhiều lỗi hơn là tính năng
   * **Một lựa chọn tốt cho người chơi, nhưng là lựa chọn tệ nhất cho các server**
   * [Cũ lắm rồi](https://howoldisminecraft188.today/)
-* [P2W (Pay to win) Servers](https://minecraft-mp.com/country/vietnam/), "Donate để được đồ OP" - Một cách để dễ dàng để ăn tiền của người chơi mà không biết rằng họ đã vi phạm rất nhiều điều khoản trong [EULA](https://account.mojang.com/documents/minecraft_eula). Đáng buồn thay, offline-mode server có thể *lách luật* một cách dễ dàng.
+* [P2W (Pay to win) Servers](https://minecraft-mp.com/country/vietnam/)
+  > Donate để được đồ OP
+  * **Một cách để dễ dàng để ăn tiền của người chơi mà không biết rằng họ đã vi phạm rất nhiều điều khoản trong [EULA](https://account.mojang.com/documents/minecraft_eula). Đáng buồn thay, offline-mode server có thể *lách luật* một cách dễ dàng.**
 * [ClearLagg](https://dev.bukkit.org/projects/clearlagg) hay bất kì plugin `giãm lag`
   > Gây lag để 'giảm lag'
   * **Vô dụng và gây lag nhiều hơn 'giảm lag'**
