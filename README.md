@@ -20,11 +20,15 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 
 * **Một cách để dễ dàng để ăn tiền của người chơi mà không biết rằng họ đã vi phạm rất nhiều điều khoản trong [EULA](https://account.mojang.com/documents/minecraft_eula). Đáng buồn thay, offline-mode server có thể *lách luật* một cách dễ dàng.**
 
-### [ClearLagg](https://dev.bukkit.org/projects/clearlagg) hay bất kì plugin `giảm lag`
-> Gây lag để 'giảm lag'
+### [Server optimization](https://minecraftvn.net/tut-tps.t32218/)
+> Thêm nhiều tính năng độc lạ và sử dụng các plugin gây lag để 'giảm lag' (e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg))
 
-* **Vô dụng và gây lag nhiều hơn 'giảm lag'**
-* Một lựa chọn chấp vá để giải quyết vấn đề về vật phẩm dưới đất và sinh entity: "sau ta không gom cả đóng entity này vào một tác vụ lớn rồi xóa tất cả mỗi X giây"
+* **Yatopia**
+* Yatopia chỉ dành cho những người chả hiểu cách mà patch system hoạt động. Paper fork với slogan hay **The Most Powerful and Feature Rich Minecraft Server Software!** nhưng hiệu năng và tính năng đem lại chỉ khiến bạn muốn xóa file server.
+* Lựa chọn thay thế: [Paper](https://papermc.io/), [Purpur](https://purpur.pl3x.net/)
+
+* **Plugin vô dụng và gây lag nhiều hơn 'giảm lag'**
+* Một lựa chọn chấp vá để giải quyết vấn đề về vật phẩm dưới đất và sinh entity: "thay vì sử dụng minecraft vanilla despawn entitíe và items trong config, sao ta không gom cả đóng entity này vào một tác vụ lớn rồi xóa tất cả mỗi X giây"
 * Lựa chọn thay thế: [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization), [Server Optimization](https://www.spigotmc.org/threads/283181/)
 
 ### "Cracked" plugin ([BlackSpigot](https://blackspigot.com/), [DirectLeaks](https://directleaks.net/), [LeakMania](https://leakmania.co/),...)
