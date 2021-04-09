@@ -24,7 +24,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 > Thêm nhiều tính năng độc lạ và sử dụng các plugin gây lag để 'giảm lag' (e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg))
 
 * **Yatopia**
-  * Chỉ dành cho những người chả hiểu cách mà patch system hoạt động. Bản fork của Paper với slogan hay **The Most Powerful and Feature Rich Minecraft Server Software!** nhưng hiệu năng và tính năng đem lại chỉ khiến bạn muốn xóa file server.
+  * Chỉ dành cho những người chả hiểu cách mà patch system hoạt động. Bản fork của Paper với slogan hay `The Most Powerful and Feature Rich Minecraft Server Software!` nhưng hiệu năng và tính năng đem lại chỉ khiến bạn muốn xóa file server.
   * Lựa chọn thay thế: [Paper](https://papermc.io/), [Purpur](https://purpur.pl3x.net/)
 
 * **Plugin 'giảm lag': Vô dụng và gây lag nhiều hơn 'giảm lag'**
