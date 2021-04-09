@@ -24,11 +24,11 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 > Thêm nhiều tính năng độc lạ và sử dụng các plugin gây lag để 'giảm lag' (e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg))
 
 * **Yatopia**
-* Yatopia chỉ dành cho những người chả hiểu cách mà patch system hoạt động. Paper fork với slogan hay **The Most Powerful and Feature Rich Minecraft Server Software!** nhưng hiệu năng và tính năng đem lại chỉ khiến bạn muốn xóa file server.
+* Yatopia chỉ dành cho những người chả hiểu cách mà patch system hoạt động. Bản fork của Paper với slogan hay **The Most Powerful and Feature Rich Minecraft Server Software!** nhưng hiệu năng và tính năng đem lại chỉ khiến bạn muốn xóa file server.
 * Lựa chọn thay thế: [Paper](https://papermc.io/), [Purpur](https://purpur.pl3x.net/)
 
 * **Plugin vô dụng và gây lag nhiều hơn 'giảm lag'**
-* Một lựa chọn chấp vá để giải quyết vấn đề về vật phẩm dưới đất và sinh entity: "thay vì sử dụng minecraft vanilla despawn entitíe và items trong config, sao ta không gom cả đóng entity này vào một tác vụ lớn rồi xóa tất cả mỗi X giây"
+* Một lựa chọn chấp vá để giải quyết vấn đề về vật phẩm dưới đất và sinh entity: "thay vì sử dụng minecraft vanilla despawn entities và item-despawn-rate trong config, sao ta không gom cả đóng entity này vào một tác vụ lớn rồi xóa tất cả mỗi X giây"
 * Lựa chọn thay thế: [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization), [Server Optimization](https://www.spigotmc.org/threads/283181/)
 
 ### "Cracked" plugin ([BlackSpigot](https://blackspigot.com/), [DirectLeaks](https://directleaks.net/), [LeakMania](https://leakmania.co/),...)
