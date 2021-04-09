@@ -8,7 +8,8 @@
 * [1.8.X (1.8-1.8.9)](https://minecraft.fandom.com/wiki/Java_Edition_1.8), "bEst pVP, nhưng nhiều lỗi hơn là tính năng" - Một lựa chọn tốt cho người chơi, nhưng là lựa chọn tệ nhất cho các server. [Cũ lắm rồi](https://howoldisminecraft188.today/)
 * [ClearLagg](https://dev.bukkit.org/projects/clearlagg), "Gây lag để 'giảm lag'" - Vô dụng và gây lag nhiều hơn 'giảm lag'
 * "Cracked" plugin ([BlackSpigot](https://blackspigot.com/), [DirectLeaks](https://directleaks.net/), [LeakMania](https://leakmania.co/),...), "Dùng các plugin phải mua một cách miễn phí, nhưng mất an toàn" - Một lựa chọn thay thế `tạm thời`, nhưng có vấn đề nếu lạm dụng quá nhiều:
-  * Độ an toàn của plugin dựa vào uy tín thằng crack, thường là rất ít
+  * Độ an toàn của plugin phụ thuộc vào uy tín thằng crack, thường là rất ít
+  * Việc cập nhật phụ thuộc vào thằng crack, nên mấy thằng xài crack nhận cập nhật trễ hơn, có thể là không có cập nhật luôn
   * Có rất nhiều bản crack từ chung một plugin, khó lựa chọn bản an toàn
   * Chính sách Anti-Releak của các trang đôi khi lại gây ảnh hưởng cho một số server ([Ví dụ](https://minecraftvn.net/sao-e-e-mo-sv-thi-bi-the-nay-ai-bt-giup-e-vs-a.t30637/), [Ví dụ 2](https://minecraftvn.net/the-file-is-damaged-please-re-download-the-file-and-check-again.t30496/),...)
   * Có nguy cơ dính mã độc từ các thằng crack không uy tín
