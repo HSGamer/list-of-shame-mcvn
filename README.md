@@ -4,6 +4,7 @@
 * [ChestCommands](https://dev.bukkit.org/projects/chest-commands), "Plugin Menu đơn giản nhất, nhưng xóa mất PlayerPoints" - Bản mới của nó đã xóa PlayerPoints
   * Ai cũng xài bản siêu cũ chỉ để cho nó có hỗ trợ PlayerPoints (một plugin tiền tệ đã quá cũ)
   * Ai đó dùng bản mới thì cũng hỏi lên hỏi xuống vì người chơi server bug đồ bằng point
+  * Code của nó khá khó để mở rộng tính năng
 * [1.8.X (1.8-1.8.9)](https://minecraft.fandom.com/wiki/Java_Edition_1.8), "bEst pVP, nhưng nhiều lỗi hơn là tính năng" - Một lựa chọn tốt cho người chơi, nhưng là lựa chọn tệ nhất cho các server. [Cũ lắm rồi](https://howoldisminecraft188.today/)
 * [ClearLagg](https://dev.bukkit.org/projects/clearlagg), "Gây lag để 'giảm lag'" - Vô dụng và gây lag nhiều hơn 'giảm lag'
 
