@@ -51,7 +51,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * "Thay vì phải tốn công làm server từ đầu, sau ta không lấy/mua file đã chia sẻ trên mạng rồi về mở luôn cho nhanh"
 * Những server dạng này thường dễ nhận diện nếu tinh mắt, vì có thể gặp nó ở một server khác cùng file
 * Đôi lúc họ không chỉnh sửa gì nhưng lại tự nhận là file của họ tự làm
-* Độ sáng tạo cũng gây tranh cãi vì nó theo lối mòn của file mạng
+* Độ sáng tạo cũng gây tranh cãi vì nó theo lối mòn của file đã chia sẻ
 
 # Đính chính
 Danh sách này mang tính chất tham khảo. Chúng tôi tôn trọng tất cả mọi người, những người ở danh sách này là do họ có những việc "gây tranh cãi", và những thứ trên đây không có nghĩa là bạn không nên tiếp xúc hay sử dụng chúng. Bạn có thể đọc cho vui, đừng làm nghiêm trọng quá và có thể chỉnh sửa bất kì chi tiết sai để giúp danh sách này hoàn thiện hơn.
