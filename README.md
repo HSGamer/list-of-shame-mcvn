@@ -43,6 +43,16 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Chất lượng bản crack thấp hơn bản chính (FeatherBoard go brrrrrrr)
 * Không được hỗ trợ từ tác giả chính gốc
 
+### Server "mì ăn liền"
+> Server "xịn", nhưng công sức là do thằng khác
+
+* **Thiếu sáng tạo và cho thấy độ lười trong việc làm server**
+* Mua hoặc download một file có sẵn trên mạng, đem về bỏ vào server mình, rồi đăng quảng cáo
+* "Thay vì phải tốn công làm server từ đầu, sau ta không lấy/mua file đã chia sẻ trên mạng rồi về mở luôn cho nhanh"
+* Những server dạng này thường dễ nhận diện nếu tinh mắt, vì có thể gặp nó ở một server khác cùng file
+* Đôi lúc họ không chỉnh sửa gì nhưng lại tự nhận là file của họ tự làm
+* Độ sáng tạo cũng gây tranh cãi vì nó theo lối mòn của file mạng
+
 # Đính chính
 Danh sách này mang tính chất tham khảo. Chúng tôi tôn trọng tất cả mọi người, những người ở danh sách này là do họ có những việc "gây tranh cãi", và những thứ trên đây không có nghĩa là bạn không nên tiếp xúc hay sử dụng chúng. Bạn có thể đọc cho vui, đừng làm nghiêm trọng quá và có thể chỉnh sửa bất kì chi tiết sai để giúp danh sách này hoàn thiện hơn.
 
