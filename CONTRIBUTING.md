@@ -16,7 +16,6 @@ Một ví dụ là:
   > Danh sách xấu hổ của những người thích drama
   * **Chỉ thích chọc ngoái người khác**
 ```
-V
 * [list-of-shame-mcvn](https://github.com/HSGamer/list-of-shame-mcvn/)
   > Danh sách xấu hổ của những người thích drama
   * **Chỉ thích chọc ngoái người khác**
