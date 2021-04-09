@@ -9,7 +9,7 @@
 * [ClearLagg](https://dev.bukkit.org/projects/clearlagg), "Gây lag để 'giảm lag'" - Vô dụng và gây lag nhiều hơn 'giảm lag'
 * "Cracked" plugin ([BlackSpigot](https://blackspigot.com/), [DirectLeaks](https://directleaks.net/), [LeakMania](https://leakmania.co/)), "Dùng các plugin phải mua một cách miễn phí, nhưng mất an toàn" - Một lựa chọn thay thế `tạm thời`, nhưng có vấn đề nếu lạm dụng quá nhiều:
   * Độ an toàn của plugin dựa vào uy tín thằng crack, thường là rất ít
-  * Có rất nhiều bản crack từ chung một plugin
+  * Có rất nhiều bản crack từ chung một plugin, khó lựa chọn bản an toàn
   * Chính sách Anti-Releak của các trang đôi khi lại gây ảnh hưởng cho một số server ([Ví dụ](https://minecraftvn.net/sao-e-e-mo-sv-thi-bi-the-nay-ai-bt-giup-e-vs-a.t30637/), [Ví dụ 2](https://minecraftvn.net/the-file-is-damaged-please-re-download-the-file-and-check-again.t30496/),...)
   * Có nguy cơ dính mã độc từ các thằng crack không uy tín
   * Chất lượng bản crack thấp hơn bản chính (FeatherBoard go brrrrrrr)
