@@ -8,5 +8,6 @@
 * [ClearLagg](https://dev.bukkit.org/projects/clearlagg), "Gây lag để 'giảm lag'" - Vô dụng và gây lag nhiều hơn 'giảm lag'
 
 # Lưu ý
-Danh sách này mang tính chất tham khảo. Chúng tôi tôn trọng tất cả mọi người, những người ở danh sách này là do họ có những việc "gây tranh cãi". Bạn có thể đọc cho vui, đừng làm nghiêm trọng quá và chỉnh sửa bất kì chi tiết sai nào.
+Danh sách này mang tính chất tham khảo. Chúng tôi tôn trọng tất cả mọi người, những người ở danh sách này là do họ có những việc "gây tranh cãi", và những thứ trên đây không có nghĩa là bạn không nên tiếp xúc hay sử dụng chúng. Bạn có thể đọc cho vui, đừng làm nghiêm trọng quá và có thể chỉnh sửa bất kì chi tiết sai để giúp danh sách này hoàn thiện hơn.
+
 > Inspiration from [list-of-shame](https://github.com/KennyTV/list-of-shame)
