@@ -1,34 +1,34 @@
 # List Of Shame (MCVN Edition)
 Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ gì) gây tranh cãi trong cộng đồng Minecraft Việt Nam
 
-* [ChestCommands](https://dev.bukkit.org/projects/chest-commands)
-  > Plugin Menu đơn giản nhất, nhưng xóa mất PlayerPoints
-  * **Bản mới của nó đã xóa PlayerPoints**
-  * Ai cũng xài bản siêu cũ chỉ để cho nó có hỗ trợ PlayerPoints (một plugin tiền tệ đã quá cũ)
-  * Ai đó dùng bản mới thì cũng hỏi lên hỏi xuống vì người chơi server bug đồ bằng point
-  * Code của nó khá khó để mở rộng tính năng
-* [1.8.X (1.8-1.8.9)](https://minecraft.fandom.com/wiki/Java_Edition_1.8)
-  > bEst pVP, nhưng nhiều lỗi hơn là tính năng
-  * **Một lựa chọn tốt cho người chơi, nhưng là lựa chọn tệ nhất cho các server**
-  * [Cũ lắm rồi](https://howoldisminecraft188.today/)
-* [P2W (Pay to win) Servers](https://minecraft-mp.com/country/vietnam/)
+### [ChestCommands](https://dev.bukkit.org/projects/chest-commands)
+> Plugin Menu đơn giản nhất, nhưng xóa mất PlayerPoints
+* **Bản mới của nó đã xóa PlayerPoints**
+* Ai cũng xài bản siêu cũ chỉ để cho nó có hỗ trợ PlayerPoints (một plugin tiền tệ đã quá cũ)
+* Ai đó dùng bản mới thì cũng hỏi lên hỏi xuống vì người chơi server bug đồ bằng point
+* Code của nó khá khó để mở rộng tính năng
+### [1.8.X (1.8-1.8.9)](https://minecraft.fandom.com/wiki/Java_Edition_1.8)
+> bEst pVP, nhưng nhiều lỗi hơn là tính năng
+* **Một lựa chọn tốt cho người chơi, nhưng là lựa chọn tệ nhất cho các server**
+* [Cũ lắm rồi](https://howoldisminecraft188.today/)
+### [P2W (Pay to win) Servers](https://minecraft-mp.com/country/vietnam/)
   > Donate để được đồ OP
   * **Một cách để dễ dàng để ăn tiền của người chơi mà không biết rằng họ đã vi phạm rất nhiều điều khoản trong [EULA](https://account.mojang.com/documents/minecraft_eula). Đáng buồn thay, offline-mode server có thể *lách luật* một cách dễ dàng.**
-* [ClearLagg](https://dev.bukkit.org/projects/clearlagg) hay bất kì plugin `giãm lag`
-  > Gây lag để 'giảm lag'
-  * **Vô dụng và gây lag nhiều hơn 'giảm lag'**
-  * Một lựa chọn chấp vá để giải quyết vấn đề về vật phẩm dưới đất và sinh entity: "sau ta không gom cả đóng entity này vào một tác vụ lớn rồi xóa tất cả mỗi X giây"
-  * Lựa chọn thay thế: [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization), [Server Optimization](https://www.spigotmc.org/threads/283181/)
-* "Cracked" plugin ([BlackSpigot](https://blackspigot.com/), [DirectLeaks](https://directleaks.net/), [LeakMania](https://leakmania.co/),...)
-  > Dùng các plugin phải mua một cách miễn phí, nhưng mất an toàn
-  * **Một lựa chọn thay thế `tạm thời`, nhưng có vấn đề nếu lạm dụng quá nhiều**
-  * Độ an toàn của plugin phụ thuộc vào uy tín thằng crack, thường là rất ít
-  * Việc cập nhật phụ thuộc vào thằng crack, nên mấy thằng xài crack nhận cập nhật trễ hơn, có thể là không có cập nhật luôn
-  * Có rất nhiều bản crack từ chung một plugin, khó lựa chọn bản an toàn
-  * Chính sách Anti-Releak của các trang đôi khi lại gây ảnh hưởng cho một số server ([Ví dụ](https://minecraftvn.net/sao-e-e-mo-sv-thi-bi-the-nay-ai-bt-giup-e-vs-a.t30637/), [Ví dụ 2](https://minecraftvn.net/the-file-is-damaged-please-re-download-the-file-and-check-again.t30496/),...)
-  * Có nguy cơ dính mã độc từ các thằng crack không uy tín
-  * Chất lượng bản crack thấp hơn bản chính (FeatherBoard go brrrrrrr)
-  * Không được hỗ trợ từ tác giả chính gốc
+### [ClearLagg](https://dev.bukkit.org/projects/clearlagg) hay bất kì plugin `giãm lag`
+> Gây lag để 'giảm lag'
+* **Vô dụng và gây lag nhiều hơn 'giảm lag'**
+* Một lựa chọn chấp vá để giải quyết vấn đề về vật phẩm dưới đất và sinh entity: "sau ta không gom cả đóng entity này vào một tác vụ lớn rồi xóa tất cả mỗi X giây"
+* Lựa chọn thay thế: [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization), [Server Optimization](https://www.spigotmc.org/threads/283181/)
+### "Cracked" plugin ([BlackSpigot](https://blackspigot.com/), [DirectLeaks](https://directleaks.net/), [LeakMania](https://leakmania.co/),...)
+> Dùng các plugin phải mua một cách miễn phí, nhưng mất an toàn
+* **Một lựa chọn thay thế `tạm thời`, nhưng có vấn đề nếu lạm dụng quá nhiều**
+* Độ an toàn của plugin phụ thuộc vào uy tín thằng crack, thường là rất ít
+* Việc cập nhật phụ thuộc vào thằng crack, nên mấy thằng xài crack nhận cập nhật trễ hơn, có thể là không có cập nhật luôn
+* Có rất nhiều bản crack từ chung một plugin, khó lựa chọn bản an toàn
+* Chính sách Anti-Releak của các trang đôi khi lại gây ảnh hưởng cho một số server ([Ví dụ](https://minecraftvn.net/sao-e-e-mo-sv-thi-bi-the-nay-ai-bt-giup-e-vs-a.t30637/), [Ví dụ 2](https://minecraftvn.net/the-file-is-damaged-please-re-download-the-file-and-check-again.t30496/),...)
+* Có nguy cơ dính mã độc từ các thằng crack không uy tín
+* Chất lượng bản crack thấp hơn bản chính (FeatherBoard go brrrrrrr)
+* Không được hỗ trợ từ tác giả chính gốc
 
 # Đính chính
 Danh sách này mang tính chất tham khảo. Chúng tôi tôn trọng tất cả mọi người, những người ở danh sách này là do họ có những việc "gây tranh cãi", và những thứ trên đây không có nghĩa là bạn không nên tiếp xúc hay sử dụng chúng. Bạn có thể đọc cho vui, đừng làm nghiêm trọng quá và có thể chỉnh sửa bất kì chi tiết sai để giúp danh sách này hoàn thiện hơn.
