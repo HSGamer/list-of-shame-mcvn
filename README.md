@@ -34,6 +34,11 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Trong một số vụ bóc phốt về Hack OP, những người này cũng có lí lẽ cho hành vi thêm backdoor là "để tránh bị [quỵt](http://tratu.soha.vn/dict/vn_vn/Qu%E1%BB%B5t)"
 * Có một người có nhiều tiền án về Backdoor, thậm chí một trong những plugin của người này còn được thêm vào danh sách đen của [Spigot Anti-Malware](https://www.spigotmc.org/resources/64982/)
 
+### [Bán account Minecraft, server items dạo](https://minecraftvn.net/members/siocoins.45295/)
+> Kiếm tiền bằng cách này thì dùng có kiếm được bao nhiêu thì vẫn chả phải tiền bạn làm ra
+* Bán đồ của các items, boosters của các server lớn (e.g [Hypixel](https://hypixel.net/)) bằng tiền mặt, bất chấp các điều khoản Người Chơi của các server đó.
+* Nhiều shop bán acc Minecraft mở ra nhưng chỉ duy trì được trong một thời gian ngắn, trong đó có một số shop lợi dụng để lừa đảo, chiếm đoạt tiền của người dùng. 
+
 ### [1.8.X (1.8-1.8.9)](https://minecraft.fandom.com/wiki/Java_Edition_1.8)
 > bEst pVP, nhưng nhiều lỗi hơn là tính năng
 
@@ -44,8 +49,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 > Donate để được đồ OP
 
 * **Một cách để dễ dàng để ăn tiền của người chơi mà không biết rằng họ đã vi phạm rất nhiều điều khoản trong [EULA](https://account.mojang.com/documents/minecraft_eula)**
-* Offline-mode server có thể *lách luật* một cách dễ dàng
-* [Phân tích EULA](https://datapools.github.io/MCEula/explanation), không chính thống nhưng có thể tham khảo
+* Đáng buồn thay, offline-mode server có thể *lách luật* một cách dễ dàng
 
 ### [Tối ưu Server](https://minecraftvn.net/tut-tps.t32218/)
 > Thêm nhiều tính năng độc lạ và sử dụng các plugin gây lag để 'giảm lag' (e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg))
@@ -77,6 +81,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Mua hoặc download một file có sẵn trên mạng, đem về bỏ vào server mình, rồi đăng quảng cáo
 * "Thay vì phải tốn công làm server từ đầu, sau ta không lấy/mua file đã chia sẻ trên mạng rồi về mở luôn cho nhanh"
 * Những server dạng này thường dễ nhận diện nếu tinh mắt, vì có thể gặp nó ở một server khác cùng file
+* Mua file mắt nửa triệu bạc nhưng file lại giống y hệt với file ở trên mạng, nhưng lại không được hoàn tiền
 * Đôi lúc họ không chỉnh sửa gì nhưng lại tự nhận là file của họ tự làm
 * Độ sáng tạo cũng gây tranh cãi vì nó theo lối mòn của file đã chia sẻ
 
