@@ -44,7 +44,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Chất lượng bản crack thấp hơn bản chính (FeatherBoard go brrrrrrr)
 * Không được hỗ trợ từ tác giả chính gốc
 
-### Server "mì ăn liền"
+### [Server "mì ăn liền"](#server-mì-ăn-liền)
 > Server "xịn", nhưng công sức là do thằng khác
 
 * **Thiếu sáng tạo và cho thấy độ lười trong việc làm server**
