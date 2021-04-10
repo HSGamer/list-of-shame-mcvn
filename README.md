@@ -8,9 +8,10 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Ai cũng xài bản siêu cũ chỉ để cho nó có hỗ trợ PlayerPoints (một plugin tiền tệ đã quá cũ)
 * Ai đó dùng bản mới thì cũng hỏi lên hỏi xuống vì người chơi server bug đồ bằng point
 * Code của nó khá khó để mở rộng tính năng
+* Các lựa chọn thay thế: [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/), [TrMenu](https://www.spigotmc.org/resources/trmenu-premium-modern-advanced-menu-plugin-1-8-1-16.83120/), ...
 
 ### [Plugin "tự code"](#t%E1%BB%B1-code-plugins)
-> Tự cao với khả năng code nhưng những gì bạn làm được là plugin Join/Leave message với một đống tính năng thừa
+> Tự cao với khả năng code nhưng những gì làm được là plugin Join/Leave message với một đống tính năng thừa
 
 * Lấy plugin, chỉ thay đổi plugin.yml
 * Sử dụng code đã có sẵn trên spigotmc.org rồi copy và chỉnh sửa lại một chút. Nhưng tự nhận là `best developer`.
@@ -52,14 +53,14 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 > Donate để được đồ OP
 
 * **Một cách để dễ dàng để ăn tiền của người chơi mà không biết rằng họ đã vi phạm rất nhiều điều khoản trong [EULA](https://account.mojang.com/documents/minecraft_eula)**
-* Đáng buồn thay, offline-mode server có thể *lách luật* một cách dễ dàng
+* Đáng buồn thay, offline-mode server có thể *lách luật* một cách dễ dàng và đa số các server hiện tại của Việt Nam đều là P2W
 
 ### [Tối ưu Server](https://minecraftvn.net/tut-tps.t32218/)
 > Thêm nhiều tính năng độc lạ và sử dụng các plugin gây lag để 'giảm lag' (e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg))
 
 * **Yatopia**
-  * Chỉ dành cho những người chả hiểu cách mà hệ thống patch hoạt động. Bản fork của Paper với slogan hay `The Most Powerful and Feature Rich Minecraft Server Software!` nhưng hiệu năng và tính năng đem lại chỉ khiến bạn muốn xóa file server.
-  * Lựa chọn thay thế: [Paper](https://papermc.io/), [Purpur](https://purpur.pl3x.net/)
+  * Chỉ dành cho những người chả hiểu cách mà hệ thống patch hoạt động. Bản fork của Paper với slogan `The Most Powerful and Feature Rich Minecraft Server Software!` nhưng hiệu năng và tính năng đem lại chỉ khiến bạn muốn xóa file server.
+  * Các lựa chọn thay thế: [Paper](https://papermc.io/), [Purpur](https://purpur.pl3x.net/)
 
 * **Plugin 'giảm lag': Vô dụng và gây lag nhiều hơn 'giảm lag'**
   * Một lựa chọn chấp vá để giải quyết vấn đề về vật phẩm dưới đất và sinh entity: "thay vì sử dụng các tùy chỉnh despawn trong config, sao ta không gom cả đóng entity này vào một tác vụ lớn rồi xóa tất cả mỗi X giây"
@@ -75,7 +76,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Chính sách Anti-Releak của các trang đôi khi lại gây ảnh hưởng cho một số server ([Ví dụ](https://minecraftvn.net/sao-e-e-mo-sv-thi-bi-the-nay-ai-bt-giup-e-vs-a.t30637/), [Ví dụ 2](https://minecraftvn.net/the-file-is-damaged-please-re-download-the-file-and-check-again.t30496/),...)
 * Có nguy cơ dính mã độc từ các thằng crack không uy tín
 * Chất lượng bản crack thấp hơn bản chính (FeatherBoard go brrrrrrr)
-* Không được hỗ trợ từ tác giả chính gốc
+* Không được hỗ trợ từ tác giả chính gốc, và kể cả cộng đồng MCVN
 
 ### [Server "mì ăn liền"](#server-mì-ăn-liền)
 > Server "xịn", nhưng công sức là do thằng khác
