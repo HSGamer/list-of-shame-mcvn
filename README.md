@@ -87,7 +87,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Mua hoặc download một file có sẵn trên mạng, đem về bỏ vào server mình, rồi đăng quảng cáo
 * "Thay vì phải tốn công làm server từ đầu, sau ta không lấy/mua file đã chia sẻ trên mạng rồi về mở luôn cho nhanh"
 * Những server dạng này thường dễ nhận diện nếu tinh mắt, vì có thể gặp nó ở một server khác cùng file
-* Mua file mắt nửa triệu bạc nhưng file lại giống y hệt với file ở trên mạng, nhưng lại không được hoàn tiền
+* Mua file mất nửa triệu bạc nhưng file lại giống y hệt với file ở trên mạng, nhưng lại không được hoàn tiền
 * Đôi lúc họ không chỉnh sửa gì nhưng lại tự nhận là file của họ tự làm
 * Độ sáng tạo cũng gây tranh cãi vì nó theo lối mòn của file đã chia sẻ
 
