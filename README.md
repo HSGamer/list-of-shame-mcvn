@@ -9,7 +9,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Ai đó dùng bản mới thì cũng hỏi lên hỏi xuống vì người chơi server bug đồ bằng point
 * Code của nó khá khó để mở rộng tính năng
 
-### [Tự code plugins]
+### [Tự code plugins](#t%E1%BB%B1-code-plugins)
 > Tự cao với khả năng code nhưng những gì bạn làm được là plugin Join/Leave message với một đống tính năng thừa
 
 * Lấy plugin, chỉ thay đổi plugin.yml
