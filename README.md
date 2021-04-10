@@ -53,7 +53,8 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 > Donate để được đồ OP
 
 * **Một cách để dễ dàng để ăn tiền của người chơi mà không biết rằng họ đã vi phạm rất nhiều điều khoản trong [EULA](https://account.mojang.com/documents/minecraft_eula)**
-* Offline-mode server có thể *lách luật* một cách dễ dàng và đa số các server hiện tại của Việt Nam đều là P2W
+* Offline-mode server có thể *lách luật* một cách dễ dàng và nhiều server hiện tại của Việt Nam là P2W
+* Cách kiếm tiền từ server cũng gây tranh cãi vì sẽ còn tuỳ vào độ lớn của server và sự sáng tạo của các quản trị viên
 * [Phân tích EULA](https://datapools.github.io/MCEula/explanation), không chính thống nhưng có thể tham khảo
 
 ### [Tối ưu Server](https://minecraftvn.net/tut-tps.t32218/)
