@@ -34,10 +34,13 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Trong một số vụ bóc phốt về Hack OP, những người này cũng có lí lẽ cho hành vi thêm backdoor là "để tránh bị [quỵt](http://tratu.soha.vn/dict/vn_vn/Qu%E1%BB%B5t)"
 * Có một người có nhiều tiền án về Backdoor, thậm chí một trong những plugin của người này còn được thêm vào danh sách đen của [Spigot Anti-Malware](https://www.spigotmc.org/resources/64982/)
 
-### [Bán account Minecraft, server items dạo](https://minecraftvn.net/members/siocoins.45295/)
-> Kiếm tiền bằng cách này thì dùng có kiếm được bao nhiêu thì vẫn chả phải tiền bạn làm ra
-* Bán đồ của các items, boosters của các server lớn (e.g [Hypixel](https://hypixel.net/)) bằng tiền mặt, bất chấp các điều khoản Người Chơi của các server đó.
-* Nhiều shop bán acc Minecraft mở ra nhưng chỉ duy trì được trong một thời gian ngắn, trong đó có một số shop lợi dụng để lừa đảo, chiếm đoạt tiền của người dùng. 
+### [Bán tài khoản Minecraft, vật phẩm trong server dạo](https://minecraftvn.net/members/siocoins.45295/)
+> Kiếm tiền lậu bằng công của người khác
+
+* **Kiếm tiền bằng cách này thì dùng có kiếm được bao nhiêu thì vẫn chả phải tiền bạn làm ra**
+* Bán vật phẩm, Booster của các server lớn (e.g [Hypixel](https://hypixel.net/)) bằng tiền mặt, bất chấp các điều khoản Người Chơi của các server đó
+* Nhiều shop bán tài khoản Minecraft mở ra nhưng chỉ duy trì được trong một thời gian ngắn
+* Một số shop còn lợi dụng để lừa đảo, chiếm đoạt tiền của người dùng
 
 ### [1.8.X (1.8-1.8.9)](https://minecraft.fandom.com/wiki/Java_Edition_1.8)
 > bEst pVP, nhưng nhiều lỗi hơn là tính năng
