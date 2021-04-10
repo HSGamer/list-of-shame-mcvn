@@ -15,7 +15,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Lấy plugin, chỉ thay đổi plugin.yml
 * Sử dụng code đã có sẵn trên spigotmc.org rồi copy và chỉnh sửa lại một chút. Nhưng tự nhận là `best developer`.
 
-### "Hack OP"
+### ["Hack OP"](#hack-op)
 > Một loại "hack" mà 99% không phải do lỗi server mà do lỗi của con người
 
 * **Cho thấy sự thiếu kĩ lưỡng trong việc quản lí bảo mật cho server**
@@ -24,10 +24,10 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Một số server "chặn" hack này một cách sơ sài bằng cách cài plugin đăng kí/đăng nhập cho tất cả cụm server con
 * Một số khác thêm các plugin khá dư thừa (`AntiBungeeHack`, `AntiOP`,...)
 
-### Backdoor & Malware
+### [Backdoor & Malware](#backdoor--malware)
 > Đã thuê code còn cài mã độc vào
 
-* **Một cách Hack OP cũ, chuyên môn trung bình, nhưng nhắm vào đối tượng ngây thơ và gây thiệt hại lớn**
+* **Một cách [Hack OP](#hack-op) cũ, chuyên môn trung bình, nhưng nhắm vào đối tượng ngây thơ và gây thiệt hại lớn**
 * Đây là cái quyết định uy tín của người được thuê code
 * Đôi lúc, đây cũng là chiêu của những quản trị viên muốn trả thù
 * Để tránh bị lộ, một số người còn cho làm [rối code](https://www.google.com/search?q=java+obfuscator) của họ
