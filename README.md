@@ -11,6 +11,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 
 ### [Tự code plugins]
 > Tự cao với khả năng code nhưng những gì bạn làm được là plugin Join/Leave message với một đống tính năng thừa
+
 * Lấy plugin, chỉ thay đổi plugin.yml
 * Sử dụng code đã có sẵn trên spigotmc.org rồi copy và chỉnh sửa lại một chút. Nhưng tự nhận là `best developer`.
 
