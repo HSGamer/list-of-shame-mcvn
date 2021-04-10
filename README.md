@@ -9,11 +9,30 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Ai đó dùng bản mới thì cũng hỏi lên hỏi xuống vì người chơi server bug đồ bằng point
 * Code của nó khá khó để mở rộng tính năng
 
-### [Tự code plugins](#t%E1%BB%B1-code-plugins)
+### [Plugin "tự code"](#t%E1%BB%B1-code-plugins)
 > Tự cao với khả năng code nhưng những gì bạn làm được là plugin Join/Leave message với một đống tính năng thừa
 
 * Lấy plugin, chỉ thay đổi plugin.yml
 * Sử dụng code đã có sẵn trên spigotmc.org rồi copy và chỉnh sửa lại một chút. Nhưng tự nhận là `best developer`.
+
+### "Hack OP"
+> Một loại "hack" mà 99% không phải do lỗi server mà do lỗi của con người
+
+* **Cho thấy sự thiếu kĩ lưỡng trong việc quản lí bảo mật cho server**
+* Đây KHÔNG phải là một loại hack nằm trong một tool hack
+* Các hình thức bao gồm: dò cổng (port), mua chuộc, lợi dụng sự thiếu hiểu biết của chủ server
+* Một số server "chặn" hack này một cách sơ sài bằng cách cài plugin đăng kí/đăng nhập cho tất cả cụm server con
+* Một số khác thêm các plugin khá dư thừa (`AntiBungeeHack`, `AntiOP`,...)
+
+### Backdoor & Malware
+> Đã thuê code còn cài mã độc vào
+
+* **Một cách Hack OP cũ, chuyên môn trung bình, nhưng nhắm vào đối tượng ngây thơ và gây thiệt hại lớn**
+* Đây là cái quyết định uy tín của người được thuê code
+* Đôi lúc, đây cũng là chiêu của những quản trị viên muốn trả thù
+* Để tránh bị lộ, một số người còn cho làm [rối code](https://www.google.com/search?q=java+obfuscator) của họ
+* Trong một số vụ bóc phốt về Hack OP, những người này cũng có lí lẽ cho hành vi thêm backdoor "để tránh bị [quỵt](http://tratu.soha.vn/dict/vn_vn/Qu%E1%BB%B5t)"
+* Có một người có nhiều tiền án về Backdoor, thậm chí một trong những plugin của người này còn được thêm vào danh sách đen của [Spigot Anti-Malware](https://www.spigotmc.org/resources/64982/)
 
 ### [1.8.X (1.8-1.8.9)](https://minecraft.fandom.com/wiki/Java_Edition_1.8)
 > bEst pVP, nhưng nhiều lỗi hơn là tính năng
