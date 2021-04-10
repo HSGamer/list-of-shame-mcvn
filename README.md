@@ -8,7 +8,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Ai cũng xài bản siêu cũ chỉ để cho nó có hỗ trợ PlayerPoints (một plugin tiền tệ đã quá cũ)
 * Ai đó dùng bản mới thì cũng hỏi lên hỏi xuống vì người chơi server bug đồ bằng point
 * Code của nó khá khó để mở rộng tính năng
-* Các lựa chọn thay thế: [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/), [TrMenu](https://www.spigotmc.org/resources/trmenu-premium-modern-advanced-menu-plugin-1-8-1-16.83120/), ...
+* Các lựa chọn thay thế: [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/), [TrMenu](https://www.spigotmc.org/resources/trmenu-premium-modern-advanced-menu-plugin-1-8-1-16.83120/), [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/), ...
 
 ### [Plugin "tự code"](#t%E1%BB%B1-code-plugins)
 > Tự cao với khả năng code nhưng những gì làm được là plugin Join/Leave message với một đống tính năng thừa
@@ -53,7 +53,8 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 > Donate để được đồ OP
 
 * **Một cách để dễ dàng để ăn tiền của người chơi mà không biết rằng họ đã vi phạm rất nhiều điều khoản trong [EULA](https://account.mojang.com/documents/minecraft_eula)**
-* Đáng buồn thay, offline-mode server có thể *lách luật* một cách dễ dàng và đa số các server hiện tại của Việt Nam đều là P2W
+* Offline-mode server có thể *lách luật* một cách dễ dàng và đa số các server hiện tại của Việt Nam đều là P2W
+* [Phân tích EULA](https://datapools.github.io/MCEula/explanation), không chính thống nhưng có thể tham khảo
 
 ### [Tối ưu Server](https://minecraftvn.net/tut-tps.t32218/)
 > Thêm nhiều tính năng độc lạ và sử dụng các plugin gây lag để 'giảm lag' (e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg))
