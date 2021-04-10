@@ -9,6 +9,9 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Ai đó dùng bản mới thì cũng hỏi lên hỏi xuống vì người chơi server bug đồ bằng point
 * Code của nó khá khó để mở rộng tính năng
 
+### [Tự code plugins]
+> Tự cao với khả năng code nhưng những gì bạn làm được là plugin Join/Leave message với một đống tính năng thừa
+
 ### [1.8.X (1.8-1.8.9)](https://minecraft.fandom.com/wiki/Java_Edition_1.8)
 > bEst pVP, nhưng nhiều lỗi hơn là tính năng
 
