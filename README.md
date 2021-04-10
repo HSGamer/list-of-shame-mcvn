@@ -31,7 +31,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Đây là cái quyết định uy tín của người được thuê code
 * Đôi lúc, đây cũng là chiêu của những quản trị viên muốn trả thù
 * Để tránh bị lộ, một số người còn cho làm [rối code](https://www.google.com/search?q=java+obfuscator) của họ
-* Trong một số vụ bóc phốt về Hack OP, những người này cũng có lí lẽ cho hành vi thêm backdoor là `để tránh bị [quỵt](http://tratu.soha.vn/dict/vn_vn/Qu%E1%BB%B5t)`
+* Trong một số vụ bóc phốt về Hack OP, những người này cũng có lí lẽ cho hành vi thêm backdoor là "để tránh bị [quỵt](http://tratu.soha.vn/dict/vn_vn/Qu%E1%BB%B5t)"
 * Có một người có nhiều tiền án về Backdoor, thậm chí một trong những plugin của người này còn được thêm vào danh sách đen của [Spigot Anti-Malware](https://www.spigotmc.org/resources/64982/)
 
 ### [1.8.X (1.8-1.8.9)](https://minecraft.fandom.com/wiki/Java_Edition_1.8)
