@@ -91,6 +91,9 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Đôi lúc họ không chỉnh sửa gì nhưng lại tự nhận là file của họ tự làm
 * Độ sáng tạo cũng gây tranh cãi vì nó theo lối mòn của file đã chia sẻ
 
+### [Tự nhận là best staff](#tự-nhận-là-best-staff)
+> Lên mạng xin làm staff, tự kể ra thành tích cá nhân nhưng thực ra chả làm được gì
+
 # Đính chính
 Danh sách này mang tính chất tham khảo. Chúng tôi tôn trọng tất cả mọi người, những người ở danh sách này là do họ có những việc "gây tranh cãi", và những thứ trên đây không có nghĩa là bạn không nên tiếp xúc hay sử dụng chúng. Bạn có thể đọc cho vui, đừng làm nghiêm trọng quá và có thể chỉnh sửa bất kì chi tiết sai để giúp danh sách này hoàn thiện hơn.
 
