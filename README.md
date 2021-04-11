@@ -91,10 +91,15 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Đôi lúc họ không chỉnh sửa gì nhưng lại tự nhận là file của họ tự làm
 * Độ sáng tạo cũng gây tranh cãi vì nó theo lối mòn của file đã chia sẻ
 
-### [Tự nhận là best staff](#tự-nhận-là-best-staff)
-> Lên mạng xin làm staff, tự kể ra thành tích cá nhân nhưng thực ra chả làm được gì. Thậm chí người đi xin staff chủ yếu là mấy thằng nhóc
+### [Staff "tự xưng"](#staff-tự-xưng)
+> Staff nhưng hành xử thấp hơn người chơi
 
-
+* **Bọn bù nhìn, có thể quay ra phản bất kì lúc nào**
+* Thường thấy ở các bài quảng cáo server, các thành phần thường "xin làm staff" ở dưới phần bình luận
+* Tự kể ra thành tích cá nhân nhưng thực ra chả làm được gì
+* Thậm chí người đi xin staff chủ yếu là mấy thằng nhóc
+* Chủ yếu để đem đi [khoe mẽ](http://tratu.soha.vn/dict/vn_vn/Khoe_m%E1%BA%BD)
+* Có liên quan trong nhiều vụ [Hack OP](#hack-op)
 
 # Đính chính
 Danh sách này mang tính chất tham khảo. Chúng tôi tôn trọng tất cả mọi người, những người ở danh sách này là do họ có những việc "gây tranh cãi", và những thứ trên đây không có nghĩa là bạn không nên tiếp xúc hay sử dụng chúng. Bạn có thể đọc cho vui, đừng làm nghiêm trọng quá và có thể chỉnh sửa bất kì chi tiết sai để giúp danh sách này hoàn thiện hơn.
