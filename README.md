@@ -8,7 +8,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Ai cũng xài bản siêu cũ chỉ để cho nó có hỗ trợ PlayerPoints (một plugin tiền tệ đã quá cũ)
 * Ai đó dùng bản mới thì cũng hỏi lên hỏi xuống vì người chơi server bug đồ bằng point
 * Code của nó khá khó để mở rộng tính năng
-* Các lựa chọn thay thế: [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/), [TrMenu](https://www.spigotmc.org/resources/trmenu-premium-modern-advanced-menu-plugin-1-8-1-16.83120/), [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/), ...
+* Các lựa chọn thay thế: [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/), [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/), [TrMenu](https://www.spigotmc.org/resources/trmenu-premium-modern-advanced-menu-plugin-1-8-1-16.83120/),...
 
 ### [Plugin "tự code"](#t%E1%BB%B1-code-plugins)
 > Tự cao với khả năng code nhưng những gì làm được là plugin Join/Leave message với một đống tính năng thừa
