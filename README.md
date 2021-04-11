@@ -62,11 +62,11 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 
 * [**Yatopia**](https://github.com/YatopiaMC/Yatopia)
   * Chỉ dành cho những người chả hiểu cách mà hệ thống patch hoạt động. Bản fork của Paper với slogan `The Most Powerful and Feature Rich Minecraft Server Software!` nhưng hiệu năng và tính năng đem lại chỉ khiến bạn muốn xóa file server.
-  * Các lựa chọn thay thế: [Paper](https://papermc.io/), [Purpur](https://purpur.pl3x.net/)
+  * Các lựa chọn thay thế: [Paper](https://papermc.io/), [Airplane](https://github.com/Technove/Airplane), [Tuinity](https://github.com/Spottedleaf/Tuinity), [Purpur](https://purpur.pl3x.net/)
 
 * **Plugin 'giảm lag': Vô dụng và gây lag nhiều hơn 'giảm lag'**
   * Một lựa chọn chấp vá để giải quyết vấn đề về vật phẩm dưới đất và sinh entity: "thay vì sử dụng các tùy chỉnh despawn trong config, sao ta không gom cả đóng entity này vào một tác vụ lớn rồi xóa tất cả mỗi X giây"
-  * Lựa chọn thay thế: [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization), [Server Optimization](https://www.spigotmc.org/threads/283181/)
+  * Các lựa chọn thay thế: [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization), [Server Optimization](https://www.spigotmc.org/threads/283181/)
 
 ### "Cracked" plugin ([BlackSpigot](https://blackspigot.com/), [DirectLeaks](https://directleaks.net/), [LeakMania](https://leakmania.co/),...)
 > Dùng các plugin phải mua một cách miễn phí, nhưng mất an toàn
