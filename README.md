@@ -17,7 +17,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Sử dụng code đã có sẵn trên spigotmc.org rồi copy và chỉnh sửa lại một chút. Nhưng tự nhận là `best developer`.
 
 ### ["Hack OP"](#hack-op)
-> Một loại "hack" mà 99% không phải do lỗi server mà do lỗi của con người
+> Một loại "hack" mà 99% không phải do lỗi server
 
 * **Cho thấy sự thiếu kĩ lưỡng trong việc quản lí bảo mật cho server**
 * Đây KHÔNG phải là một loại hack nằm trong một tool hack
