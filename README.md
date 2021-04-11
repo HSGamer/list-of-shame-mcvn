@@ -97,7 +97,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * **Bọn bù nhìn, có thể quay ra phản bất kì lúc nào**
 * Thường thấy ở các bài quảng cáo server, các thành phần thường "xin làm staff" ở dưới phần bình luận
 * Tự kể ra thành tích cá nhân nhưng thực ra chả làm được gì
-* Thậm chí người đi xin staff chủ yếu là mấy thằng nhóc
+* Thậm chí người đi xin staff chủ yếu là mấy thằng chả biết hoặc trình độ rất thấp
 * Chủ yếu để đem đi [khoe mẽ](http://tratu.soha.vn/dict/vn_vn/Khoe_m%E1%BA%BD)
 * Có liên quan trong nhiều vụ [Hack OP](#hack-op)
 
