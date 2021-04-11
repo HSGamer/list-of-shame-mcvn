@@ -60,7 +60,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 ### [Tối ưu Server](https://minecraftvn.net/tut-tps.t32218/)
 > Thêm nhiều tính năng độc lạ và sử dụng các plugin gây lag để 'giảm lag' (e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg))
 
-* **Yatopia**
+* [**Yatopia**](https://github.com/YatopiaMC/Yatopia)
   * Chỉ dành cho những người chả hiểu cách mà hệ thống patch hoạt động. Bản fork của Paper với slogan `The Most Powerful and Feature Rich Minecraft Server Software!` nhưng hiệu năng và tính năng đem lại chỉ khiến bạn muốn xóa file server.
   * Các lựa chọn thay thế: [Paper](https://papermc.io/), [Purpur](https://purpur.pl3x.net/)
 
