@@ -10,7 +10,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Code của nó khá khó để mở rộng tính năng
 * Các lựa chọn thay thế: [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/), [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/), [TrMenu](https://www.spigotmc.org/resources/trmenu-premium-modern-advanced-menu-plugin-1-8-1-16.83120/),...
 
-### [Plugin "tự code"](#t%E1%BB%B1-code-plugins)
+### [Plugin "tự code"](#plugin-t%E1%BB%B1-code)
 > Tự cao với khả năng code nhưng những gì làm được là plugin Join/Leave message với một đống tính năng thừa
 
 * Lấy plugin, chỉ thay đổi plugin.yml
