@@ -64,7 +64,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
   * Chỉ dành cho những người chả hiểu cách mà hệ thống patch hoạt động. Bản fork của Paper với slogan `The Most Powerful and Feature Rich Minecraft Server Software!` nhưng hiệu năng và tính năng đem lại chỉ khiến bạn muốn xóa file server.
   * Các lựa chọn thay thế: [Paper](https://papermc.io/), [Airplane](https://github.com/Technove/Airplane), [Tuinity](https://github.com/Spottedleaf/Tuinity), [Purpur](https://purpur.pl3x.net/) (`Purpur hiện tại đã chứa patches của cả Tuinity và Airplane`)
 
-* **Plugin 'giảm lag': Vô dụng và gây lag nhiều hơn 'giảm lag'(e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg)**
+* **Plugin 'giảm lag': Vô dụng và gây lag nhiều hơn 'giảm lag' (e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg)**)
   * Một lựa chọn chấp vá để giải quyết vấn đề về vật phẩm dưới đất và sinh entity: "thay vì sử dụng các tùy chỉnh despawn trong config, sao ta không gom cả đóng entity này vào một tác vụ lớn rồi xóa tất cả mỗi X giây"
   * Các lựa chọn thay thế: [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization), [Server Optimization](https://www.spigotmc.org/threads/283181/)
 
