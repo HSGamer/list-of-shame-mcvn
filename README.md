@@ -64,7 +64,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 > The Most Unstable and Glitch Rich Minecraft Server Software
  
   * Chỉ dành cho những người chả hiểu cách mà hệ thống patch hoạt động.
-  * Bản fork của Paper với slogan `The Most Powerful and Feature Rich Minecraft Server Software!` nhưng hiệu năng và tính năng đem lại chỉ khiến bạn muốn xóa file server.
+  * Bản fork của Paper với slogan chất nhưng hiệu năng và tính năng đem lại chỉ khiến bạn muốn xóa file server.
   * Các lựa chọn thay thế: [Paper](https://papermc.io/), [Airplane](https://github.com/Technove/Airplane), [Tuinity](https://github.com/Spottedleaf/Tuinity), [Purpur](https://purpur.pl3x.net/) (`Purpur hiện tại đã chứa patches của cả Tuinity và Airplane`)
 
 ### Plugin 'giảm lag' (e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg))
