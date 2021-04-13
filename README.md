@@ -60,11 +60,16 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 ## [Tối ưu Server](https://minecraftvn.net/tut-tps.t32218/)
 > Thêm nhiều tính năng "độc lạ" và sử dụng các plugin gây lag để 'giảm lag'
 
-* [**Yatopia**](https://github.com/YatopiaMC/Yatopia)
-  * Chỉ dành cho những người chả hiểu cách mà hệ thống patch hoạt động. Bản fork của Paper với slogan `The Most Powerful and Feature Rich Minecraft Server Software!` nhưng hiệu năng và tính năng đem lại chỉ khiến bạn muốn xóa file server.
+### [Yatopia](https://github.com/YatopiaMC/Yatopia)
+> The Most Unstable and Glitch Rich Minecraft Server Software
+ 
+  * Chỉ dành cho những người chả hiểu cách mà hệ thống patch hoạt động.
+  * Bản fork của Paper với slogan `The Most Powerful and Feature Rich Minecraft Server Software!` nhưng hiệu năng và tính năng đem lại chỉ khiến bạn muốn xóa file server.
   * Các lựa chọn thay thế: [Paper](https://papermc.io/), [Airplane](https://github.com/Technove/Airplane), [Tuinity](https://github.com/Spottedleaf/Tuinity), [Purpur](https://purpur.pl3x.net/) (`Purpur hiện tại đã chứa patches của cả Tuinity và Airplane`)
 
-* **Plugin 'giảm lag': Vô dụng và gây lag nhiều hơn 'giảm lag' (e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg)**)
+### Plugin 'giảm lag' (e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg))
+> Vô dụng và gây lag nhiều hơn 'giảm lag'
+
   * Một lựa chọn chấp vá để giải quyết vấn đề về vật phẩm dưới đất và sinh entity: "thay vì sử dụng các tùy chỉnh despawn trong config, sao ta không gom cả đóng entity này vào một tác vụ lớn rồi xóa tất cả mỗi X giây"
   * Các lựa chọn thay thế: [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization), [Server Optimization](https://www.spigotmc.org/threads/283181/)
 
@@ -100,6 +105,19 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Thậm chí người đi xin staff chủ yếu là mấy thằng chả biết hoặc trình độ rất thấp
 * Chủ yếu để đem đi [khoe mẽ](http://tratu.soha.vn/dict/vn_vn/Khoe_m%E1%BA%BD)
 * Có liên quan trong nhiều vụ [Hack OP](#hack-op)
+
+## Chế độ "gây tranh cãi"
+> Không phải vì nó tệ, chỉ là nhiều server làm nó tệ
+
+### [RPG](https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_nh%E1%BA%ADp_vai_tr%E1%BB%B1c_tuy%E1%BA%BFn_nhi%E1%BB%81u_ng%C6%B0%E1%BB%9Di_ch%C6%A1i)
+> Không chỉ có lớp, kĩ năng, nhiệm vụ và một đống thứ phức tạp đâu
+
+  * **Nhiều server coi chế độ này như một cái gì đó "thần thánh" và thu hút nhiều người chơi**
+  * Một số server thêm nhiều tính năng phức tạp nhưng lại không có hướng dẫn rõ ràng cho người mới
+  * Một số server chỉ với `Class`, `Skill` và `Quest`, rồi gắn mác thành `RPG`
+  * Một số server theo lối mòn từ các server khác
+  * Một số dị bản khó hiểu: `Skyblock RPG`, `Skyfree RPG`, `Towny RPG`, `Factions RPG`,...
+  * Có ít server làm tốt chế độ này
 
 # Đính chính
 Danh sách này mang tính chất tham khảo. Chúng tôi tôn trọng tất cả mọi người, những người ở danh sách này là do họ có những việc "gây tranh cãi", và những thứ trên đây không có nghĩa là bạn không nên tiếp xúc hay sử dụng chúng. Bạn có thể đọc cho vui, đừng làm nghiêm trọng quá và có thể chỉnh sửa bất kì chi tiết sai để giúp danh sách này hoàn thiện hơn.
