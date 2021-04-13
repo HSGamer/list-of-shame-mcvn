@@ -106,7 +106,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Chủ yếu để đem đi [khoe mẽ](http://tratu.soha.vn/dict/vn_vn/Khoe_m%E1%BA%BD)
 * Có liên quan trong nhiều vụ [Hack OP](#hack-op)
 
-## Chế độ "gây tranh cãi"
+## [Chế độ "gây tranh cãi"](#ch%E1%BA%BF-%C4%91%E1%BB%99-g%C3%A2y-tranh-c%C3%A3i)
 > Không phải vì nó tệ, chỉ là nhiều server làm nó tệ
 
 ### [RPG](https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_nh%E1%BA%ADp_vai_tr%E1%BB%B1c_tuy%E1%BA%BFn_nhi%E1%BB%81u_ng%C6%B0%E1%BB%9Di_ch%C6%A1i)
