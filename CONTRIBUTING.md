@@ -1,7 +1,7 @@
 # Mẫu
 Tất cả các dòng đều theo mẫu sau: 
 ```
-### [<tên>](<URL>)
+## [<tên>](<URL>)
 > <slogan hoặc dòng giới thiệu>
 
 * **<mô tả sơ về việc "gây" tranh cãi>**
@@ -14,13 +14,13 @@ Tất cả các dòng đều theo mẫu sau:
 
 Một ví dụ là:
 ```
-### [list-of-shame-mcvn](https://github.com/HSGamer/list-of-shame-mcvn/)
+## [list-of-shame-mcvn](https://github.com/HSGamer/list-of-shame-mcvn/)
 > Danh sách xấu hổ của những người thích drama
 
 * **Chỉ thích chọc ngoái người khác**
 
 ```
-  ### [list-of-shame-mcvn](https://github.com/HSGamer/list-of-shame-mcvn/)
+  ## [list-of-shame-mcvn](https://github.com/HSGamer/list-of-shame-mcvn/)
   > Danh sách xấu hổ của những người thích drama
   * **Chỉ thích chọc ngoái người khác**
 
