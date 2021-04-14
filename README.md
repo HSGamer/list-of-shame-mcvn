@@ -109,15 +109,29 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 ## [Chế độ "gây tranh cãi"](#ch%E1%BA%BF-%C4%91%E1%BB%99-g%C3%A2y-tranh-c%C3%A3i)
 > Không phải vì nó tệ, chỉ là nhiều server làm nó tệ
 
+### General:
+* Một số server thêm nhiều tính năng phức tạp nhưng lại không có hướng dẫn rõ ràng cho người mới
+* Một số server theo lối mòn từ các server khác
+* Không thống nhất được một ngôn ngữ trong server
+* Items trong server không cân bằng
+
 ### [RPG](https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_nh%E1%BA%ADp_vai_tr%E1%BB%B1c_tuy%E1%BA%BFn_nhi%E1%BB%81u_ng%C6%B0%E1%BB%9Di_ch%C6%A1i)
 > Không chỉ có lớp, kĩ năng, nhiệm vụ và một đống thứ phức tạp đâu
 
   * **Nhiều server coi chế độ này như một cái gì đó "thần thánh" và thu hút nhiều người chơi**
-  * Một số server thêm nhiều tính năng phức tạp nhưng lại không có hướng dẫn rõ ràng cho người mới
-  * Một số server chỉ với `Class`, `Skill` và `Quest`, rồi gắn mác thành `RPG`
-  * Một số server theo lối mòn từ các server khác
+  * Một số server chỉ với `Class`, `Skill` và `Quest`, rồi gắn mác thành `RPG`. Mặc dù vậy, nhiều server làm cái này rất hời hợt.
   * Một số dị bản khó hiểu: `Skyblock RPG`, `Skyfree RPG`, `Towny RPG`, `Factions RPG`,...
   * Có ít server làm tốt chế độ này
+
+### [Skyblock](https://minecraft.fandom.com/wiki/Tutorials/Skyblock)
+> Chế độ chơi rất hay nhưng bị `biến tấu` bởi các quản lí máy chủ.
+
+  * **Đa số các server đều đã loại bỏ mục đích của chế độ này**
+  * Đua top level đảo, đảo đẹp khiến cho chế độ này trở nên mất dần mục đích của nó
+  * Kiểu game sinh tồn nhưng lại có khu vực pvp để pk?
+  * Dù đã trải qua rất nhiều năm nhưng OreGen vẫn tồn tại ở thể loại này
+  * Plugin Kho trending (IHopper)?
+
 
 # Đính chính
 Danh sách này mang tính chất tham khảo. Chúng tôi tôn trọng tất cả mọi người, những người ở danh sách này là do họ có những việc "gây tranh cãi", và những thứ trên đây không có nghĩa là bạn không nên tiếp xúc hay sử dụng chúng. Bạn có thể đọc cho vui, đừng làm nghiêm trọng quá và có thể chỉnh sửa bất kì chi tiết sai để giúp danh sách này hoàn thiện hơn.
