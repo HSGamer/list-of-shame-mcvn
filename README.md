@@ -119,7 +119,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
   * Một số dị bản khó hiểu: `Skyblock RPG`, `Skyfree RPG`, `Towny RPG`, `Factions RPG`,...
   * Có ít server làm tốt chế độ này
 
-## [Thiếu kiến thức cơ bản trầm trọng](<URL>)
+## [Thiếu kiến thức cơ bản trầm trọng]
 > Những kiến thức, kĩ năng cần có thì lại không có
 
 * **Các kiến thức về Timings Report, Optimization hầu như không có. Dù họ làm nhiều server khác nhau ?**
