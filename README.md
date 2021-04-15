@@ -111,8 +111,8 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 
 * Một số server thêm nhiều tính năng phức tạp nhưng lại không có hướng dẫn rõ ràng cho người mới
 * Một số server theo lối mòn từ các server khác
-* Không thống nhất được một ngôn ngữ trong server
-* Items trong server không cân bằng
+* Không thống nhất được một chủ đề, ngôn ngữ trong server
+* Vật phẩm trong server không cân bằng
 
 ### [RPG](https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_nh%E1%BA%ADp_vai_tr%E1%BB%B1c_tuy%E1%BA%BFn_nhi%E1%BB%81u_ng%C6%B0%E1%BB%9Di_ch%C6%A1i)
 > Không chỉ có lớp, kĩ năng, nhiệm vụ và một đống thứ phức tạp đâu
@@ -129,13 +129,14 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
   * Đua top level đảo, đảo đẹp khiến cho chế độ này trở nên mất dần mục đích của nó
   * Kiểu game sinh tồn nhưng lại có khu vực pvp để pk?
   * Dù đã trải qua rất nhiều năm nhưng OreGen vẫn tồn tại ở thể loại này
-  * Plugin Kho trending (IHopper)?
+  * Trào lưu plugin `/kho` (IHopper, Custom Code,...)
+  * `Skyblock RPG`?
 
 ## [Kiến thức "chém gió"](#kiến-thức-chém-gió)
 > Những kiến thức, kĩ năng cần có thì lại không có
 
 * **Các kiến thức về Timings Report, Optimization hầu như không có. Dù họ làm nhiều server khác nhau ?**
-* Luôn nghĩ rằng CPU càng nhiều core càng đỡ lag
+* Luôn nghĩ rằng CPU càng nhiều core càng đỡ lag. [Nó đa luồng, chỉ là bản chất của Minecraft là chỉ chạy trên 1 nhân CPU](https://www.spigotmc.org/threads/rant-minecraft-is-not-single-threaded.462694/)
 * Dùng Analyzer Bot trong server Discord của BirdFlop Hosting, nhưng đó chỉ là hướng dẫn bạn config lại spigot.yml ? Phân tích timings ?
 * Lựa chọn VPS dựa trên dung lượng RAM và số Core CPU có ?
 * Đem dạy lại sự ngu dốt cho người khác
