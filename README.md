@@ -131,7 +131,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
   * Dù đã trải qua rất nhiều năm nhưng OreGen vẫn tồn tại ở thể loại này
   * Plugin Kho trending (IHopper)?
 
-## [Thiếu kiến thức cơ bản trầm trọng]
+## [Thiếu kiến thức cơ bản trầm trọng](#thi%E1%BA%BFu-ki%E1%BA%BFn-th%E1%BB%A9c-c%C6%A1-b%E1%BA%A3n-tr%E1%BA%A7m-tr%E1%BB%8Dng)
 > Những kiến thức, kĩ năng cần có thì lại không có
 
 * **Các kiến thức về Timings Report, Optimization hầu như không có. Dù họ làm nhiều server khác nhau ?**
