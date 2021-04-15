@@ -35,7 +35,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Trong một số vụ bóc phốt về Hack OP, những người này cũng có lí lẽ cho hành vi thêm backdoor là "để tránh bị [quỵt](http://tratu.soha.vn/dict/vn_vn/Qu%E1%BB%B5t)"
 * Có một người có nhiều tiền án về Backdoor, thậm chí một trong những plugin của người này còn được thêm vào danh sách đen của [Spigot Anti-Malware](https://www.spigotmc.org/resources/64982/)
 
-## [Bán tài khoản Minecraft, vật phẩm trong server dạo](https://minecraftvn.net/members/siocoins.45295/)
+## [Bán tài khoản, vật phẩm dạo](https://minecraftvn.net/members/siocoins.45295/)
 > Kiếm tiền lậu bằng công sức của người khác
 
 * **Kiếm tiền bằng cách này thì dùng có kiếm được bao nhiêu thì vẫn chả phải tiền bạn làm ra**
