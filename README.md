@@ -131,6 +131,14 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
   * Dù đã trải qua rất nhiều năm nhưng OreGen vẫn tồn tại ở thể loại này
   * Plugin Kho trending (IHopper)?
 
+## [Thiếu kiến thức cơ bản trầm trọng]
+> Những kiến thức, kĩ năng cần có thì lại không có
+
+* **Các kiến thức về Timings Report, Optimization hầu như không có. Dù họ làm nhiều server khác nhau ?**
+* Luôn nghĩ rằng CPU càng nhiều core càng đỡ lag
+* Dùng Analyzer Bot trong server Discord của BirdFlop Hosting, nhưng đó chỉ là hướng dẫn bạn config lại spigot.yml ? Phân tích timings ?
+* Lựa chọn VPS dựa trên dung lượng RAM và số Core CPU có ?
+* Đem dạy lại sự ngu dốt cho người khác
 
 # Đính chính
 Danh sách này mang tính chất tham khảo. Chúng tôi tôn trọng tất cả mọi người, những người ở danh sách này là do họ có những việc "gây tranh cãi", và những thứ trên đây không có nghĩa là bạn không nên tiếp xúc hay sử dụng chúng. Bạn có thể đọc cho vui, đừng làm nghiêm trọng quá và có thể chỉnh sửa bất kì chi tiết sai để giúp danh sách này hoàn thiện hơn.
