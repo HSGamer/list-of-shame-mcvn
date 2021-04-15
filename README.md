@@ -109,7 +109,6 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 ## [Chế độ "gây tranh cãi"](#ch%E1%BA%BF-%C4%91%E1%BB%99-g%C3%A2y-tranh-c%C3%A3i)
 > Không phải vì nó tệ, chỉ là nhiều server làm nó tệ
 
-### General:
 * Một số server thêm nhiều tính năng phức tạp nhưng lại không có hướng dẫn rõ ràng cho người mới
 * Một số server theo lối mòn từ các server khác
 * Không thống nhất được một ngôn ngữ trong server
