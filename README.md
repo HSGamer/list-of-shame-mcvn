@@ -131,6 +131,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
   * Tại sao keep inventory ?
   * Dù đã trải qua rất nhiều năm nhưng OreGen vẫn tồn tại ở thể loại này
   * Trào lưu plugin `/kho` (IHopper, Custom Code,...)
+  * File mạng tràn lan
   * `Skyblock RPG` ?
 
 ## [Kiến thức "chém gió"](#kiến-thức-chém-gió)
