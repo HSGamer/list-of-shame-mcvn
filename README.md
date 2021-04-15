@@ -112,7 +112,9 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Một số server thêm nhiều tính năng phức tạp nhưng lại không có hướng dẫn rõ ràng cho người mới
 * Một số server theo lối mòn từ các server khác
 * Không thống nhất được một chủ đề, ngôn ngữ trong server
+* Nhiều server chỉ đơn giản mua, download từ trên mạng về, và chỉnh sửa một tí, hoặc không, rồi đem up server
 * Vật phẩm trong server không cân bằng
+* Vẫn có nhiều server hay nhưng lại bị bỏ quên đâu đó trong xã hội
 
 ### [RPG](https://vi.wikipedia.org/wiki/Tr%C3%B2_ch%C6%A1i_nh%E1%BA%ADp_vai_tr%E1%BB%B1c_tuy%E1%BA%BFn_nhi%E1%BB%81u_ng%C6%B0%E1%BB%9Di_ch%C6%A1i)
 > Không chỉ có lớp, kĩ năng, nhiệm vụ và một đống thứ phức tạp đâu
@@ -120,8 +122,8 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
   * **Nhiều server coi chế độ này như một cái gì đó "thần thánh" và thu hút nhiều người chơi**
   * Một số server chỉ với `Class`, `Skill` và `Quest`, rồi gắn mác thành `RPG`. Mặc dù vậy, nhiều server làm cái này rất hời hợt.
   * Một số dị bản khó hiểu: `Skyblock RPG`, `Skyfree RPG`, `Towny RPG`, `Factions RPG`,...
-  * Có ít server làm tốt chế độ này
-
+  * Có ít server làm tốt chế độ này 
+  
 ### [Skyblock](https://minecraft.fandom.com/wiki/Tutorials/Skyblock)
 > Chế độ chơi rất hay nhưng bị `biến tấu` bởi các quản lí máy chủ.
 
@@ -131,8 +133,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
   * Tại sao keep inventory ?
   * Dù đã trải qua rất nhiều năm nhưng OreGen vẫn tồn tại ở thể loại này
   * Trào lưu plugin `/kho` (IHopper, Custom Code,...)
-  * File mạng tràn lan
-  * `Skyblock RPG` ?
+  * Các staff trong các server này thường là những thằng không hiểu biết, như đã liệt kê trong [Staff "tự xưng"](#staff-tự-xưng)
 
 ## [Kiến thức "chém gió"](#kiến-thức-chém-gió)
 > Những kiến thức, kĩ năng cần có thì lại không có
