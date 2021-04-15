@@ -127,10 +127,11 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 
   * **Đa số các server đều đã loại bỏ mục đích của chế độ này**
   * Đua top level đảo, đảo đẹp khiến cho chế độ này trở nên mất dần mục đích của nó
-  * Kiểu game sinh tồn nhưng lại có khu vực pvp để pk?
+  * Kiểu game sinh tồn nhưng lại có khu vực pvp để pk ?
+  * Tại sao keep inventory ?
   * Dù đã trải qua rất nhiều năm nhưng OreGen vẫn tồn tại ở thể loại này
   * Trào lưu plugin `/kho` (IHopper, Custom Code,...)
-  * `Skyblock RPG`?
+  * `Skyblock RPG` ?
 
 ## [Kiến thức "chém gió"](#kiến-thức-chém-gió)
 > Những kiến thức, kĩ năng cần có thì lại không có
