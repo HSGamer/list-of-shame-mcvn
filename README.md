@@ -145,6 +145,14 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Lựa chọn VPS dựa trên dung lượng RAM và số Core CPU có ?
 * Đem dạy lại sự ngu dốt cho người khác
 
+## Server "free vĩnh viễn"
+> Tiền ít nhưng thích đú trend
+
+* **"Free, thời hạn, cùi" hoặc "trả phí, có thời hạn, xịn" ? Chọn đi**
+* Nơi duy nhất có thể "free vĩnh viễn" là `localhost`, `192.158.1.1`, `127.0.0.1`
+* Những nơi quảng cáo là có thể cho server "free vĩnh viễn" thì 100% lừa đảo
+* Những ai muốn có server "free vĩnh viễn" để kiếm tiền thì nên suy nghĩ lại
+
 # Đính chính
 Danh sách này mang tính chất tham khảo. Chúng tôi tôn trọng tất cả mọi người, những người ở danh sách này là do họ có những việc "gây tranh cãi", và những thứ trên đây không có nghĩa là bạn không nên tiếp xúc hay sử dụng chúng. Bạn có thể đọc cho vui, đừng làm nghiêm trọng quá và có thể chỉnh sửa bất kì chi tiết sai để giúp danh sách này hoàn thiện hơn.
 
