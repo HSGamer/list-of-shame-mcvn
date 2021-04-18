@@ -1,3 +1,4 @@
+[![discussion](https://img.shields.io/badge/discussion-here-green)](https://github.com/HSGamer/list-of-shame-mcvn/discussions) [![issue](https://img.shields.io/badge/issue-here-yellow)](https://github.com/HSGamer/list-of-shame-mcvn/issues)
 # List Of Shame (MCVN Edition)
 Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ gì) gây tranh cãi trong cộng đồng Minecraft Việt Nam
 
