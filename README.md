@@ -145,7 +145,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Lựa chọn VPS dựa trên dung lượng RAM và số Core CPU có ?
 * Đem dạy lại sự ngu dốt cho người khác
 
-## Server "free vĩnh viễn"
+## [Server "free vĩnh viễn"](#server-free-vĩnh-viễn)
 > Tiền ít nhưng thích đú trend
 
 * **"Free, thời hạn, cùi" hoặc "trả phí, có thời hạn, xịn" ? Chọn đi**
