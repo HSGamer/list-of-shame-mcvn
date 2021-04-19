@@ -149,7 +149,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 > Tiền ít nhưng thích đú trend
 
 * **"Free, thời hạn, cùi" hoặc "trả phí, có thời hạn, xịn" ? Chọn đi**
-* Nơi duy nhất có thể "free vĩnh viễn" là `localhost`, `192.158.1.1`, `127.0.0.1`
+* Nơi duy nhất có thể "free vĩnh viễn" là `localhost`, `192.168.1.1`, `127.0.0.1`
 * Những nơi quảng cáo là có thể cho server "free vĩnh viễn" thì 100% lừa đảo
 * Những ai muốn có server "free vĩnh viễn" để kiếm tiền thì nên suy nghĩ lại
 
