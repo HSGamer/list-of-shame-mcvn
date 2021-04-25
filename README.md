@@ -83,7 +83,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Có rất nhiều bản crack từ chung một plugin, khó lựa chọn bản an toàn
 * Chính sách Anti-Releak của các trang đôi khi lại gây ảnh hưởng cho một số server ([Ví dụ](https://minecraftvn.net/sao-e-e-mo-sv-thi-bi-the-nay-ai-bt-giup-e-vs-a.t30637/), [Ví dụ 2](https://minecraftvn.net/the-file-is-damaged-please-re-download-the-file-and-check-again.t30496/),...)
   * Nguyên nhân không phải do các trang đó
-  * Lí do xảy ra nhiều nhât là do bạn tải từ nguồn không tin cậy
+  * Lí do xảy ra nhiều nhất là do bạn tải từ nguồn không tin cậy
   * [Bàn về Anti-Releak](https://github.com/HSGamer/list-of-shame-mcvn/discussions/17)
 * Có nguy cơ dính mã độc từ các thằng crack không uy tín
 * Chất lượng bản crack thấp hơn bản chính (FeatherBoard go brrrrrrr)
