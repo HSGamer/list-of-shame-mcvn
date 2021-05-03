@@ -34,7 +34,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Đôi lúc, đây cũng là chiêu của những quản trị viên muốn trả thù
 * Để tránh bị lộ, một số người còn cho làm [rối code](https://www.google.com/search?q=java+obfuscator) của họ
 * Trong một số vụ bóc phốt về Hack OP, những người này cũng có lí lẽ cho hành vi thêm backdoor là "để tránh bị [quỵt](http://tratu.soha.vn/dict/vn_vn/Qu%E1%BB%B5t)"
-* Có một người có nhiều tiền án về Backdoor, thậm chí một trong những plugin của người này còn được thêm vào danh sách đen của [Spigot Anti-Malware](https://www.spigotmc.org/resources/64982/)
+* [Juno Nguyễn](https://www.facebook.com/juno31.12): có nhiều tiền án về Backdoor, thậm chí có plugin còn được thêm vào danh sách đen của [Spigot Anti-Malware](https://www.spigotmc.org/resources/64982/) ([Hình ảnh](https://i.imgur.com/OiKUeSD.png))
 
 ## [Bán tài khoản, vật phẩm dạo](https://minecraftvn.net/members/siocoins.45295/)
 > Kiếm tiền lậu bằng công sức của người khác
