@@ -156,6 +156,13 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Những nơi quảng cáo là có thể cho server "free vĩnh viễn" thì 100% lừa đảo
 * Những ai muốn có server "free vĩnh viễn" để kiếm tiền thì nên suy nghĩ lại
 
+## [VPS giá rẻ](#vps-giá-rẻ)
+> Nó rẻ thật
+
+* Toàn hàng trial từ Azure, Google Cloud, Amazon EC3.....
+* Reg bằng CC chùa, đây cũng là lý do một sô trang nước ngoài block IP Việt Nam
+* Đem giao bán khắp nơi và tự tin bảo đảm hỗ trợ mọi mặt ?
+
 # Đính chính
 Danh sách này mang tính chất tham khảo. Chúng tôi tôn trọng tất cả mọi người, những người ở danh sách này là do họ có những việc "gây tranh cãi", và những thứ trên đây không có nghĩa là bạn không nên tiếp xúc hay sử dụng chúng. Bạn có thể đọc cho vui, đừng làm nghiêm trọng quá và có thể chỉnh sửa bất kì chi tiết sai để giúp danh sách này hoàn thiện hơn.
 
