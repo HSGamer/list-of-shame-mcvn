@@ -139,6 +139,17 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
   * Trào lưu plugin `/kho` (IHopper, Custom Code,...)
   * Các staff trong các server này thường là những thằng không hiểu biết, như đã liệt kê trong [Staff "tự xưng"](#staff-tự-xưng)
 
+## [Scammer (lừa đảo)](#scammer-lừa-đảo)
+> Ra giá cắt cổ cho một chức năng đơn giản
+
+* **Đa phần là mấy thằng ăn trộm/ăn cắp một số các trang web nước ngoài rồi chỉnh sửa lại**
+* Tự xưng là người lớn nhưng lại không có công việc cụ thể mà phải đi lừa "đám nhóc" trên diễn đàn.
+* Khi bị "phanh phui" hay tìm được nơi bán giá hợp lí hơn thì sẽ "sủi":
+
+![example](https://i.imgur.com/C1nyUZq.png)
+
+* Nhận biết những đối tượng này rất dễ. Một trong biểu hiệu dễ nhận ra nhất là bán giá trời cho một sản phẩm không có giá như vậy.
+
 ## [Kiến thức "chém gió"](#kiến-thức-chém-gió)
 > Những kiến thức, kĩ năng cần có thì lại không có
 
