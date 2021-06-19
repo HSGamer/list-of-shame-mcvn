@@ -66,6 +66,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
  
   * Chỉ dành cho những người chả hiểu cách mà hệ thống patch hoạt động.
   * Bản fork của Paper với slogan chất nhưng hiệu năng và tính năng đem lại chỉ khiến bạn muốn xóa file server.
+  * Xem thêm: [Yaptapia](https://kennytv.github.io/Yaptapia/)
   * Các lựa chọn thay thế: [Paper](https://papermc.io/), [Airplane](https://github.com/Technove/Airplane), [Tuinity](https://github.com/Spottedleaf/Tuinity), [Purpur](https://purpur.pl3x.net/)
 
 ### Plugin 'giảm lag' (e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg))
