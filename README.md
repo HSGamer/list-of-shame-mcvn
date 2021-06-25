@@ -61,7 +61,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 ## [Tối ưu Server](https://minecraftvn.net/tut-tps.t32218/)
 > Thêm nhiều tính năng "độc lạ" và sử dụng các plugin gây lag để 'giảm lag'
 
-### [Yatopia](https://github.com/YatopiaMC/Yatopia)
+### [Yatopia (discontinued)](https://github.com/YatopiaMC/Yatopia)
 > The Most Unstable and Glitch Rich Minecraft Server Software
  
   * Chỉ dành cho những người chả hiểu cách mà hệ thống patch hoạt động.
