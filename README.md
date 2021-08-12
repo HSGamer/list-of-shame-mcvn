@@ -43,6 +43,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Bán vật phẩm, Booster của các server lớn (e.g [Hypixel](https://hypixel.net/)) bằng tiền mặt, bất chấp các điều khoản Người Chơi của các server đó
 * Nhiều shop bán tài khoản Minecraft mở ra nhưng chỉ duy trì được trong một thời gian ngắn
 * Một số shop còn lợi dụng để lừa đảo, chiếm đoạt tiền của người dùng
+* [Bàn về tài khoản giá rẻ](https://minecraftvn.net/acc-premium-gia-re-co-nen-mua.t33603/)
 
 ## [1.8.X (1.8-1.8.9)](https://minecraft.fandom.com/wiki/Java_Edition_1.8)
 > bEst pVP, nhưng nhiều lỗi hơn là tính năng
