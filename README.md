@@ -14,7 +14,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 ## [PlayerPoints](https://dev.bukkit.org/projects/playerpoints)
 > Một hệ thống tiền tệ mà được nhiều quản lý máy chủ người Việt Nam sử dụng
 
-* **Bản original đã bị dừng phát triển nhưng vẫn có người dùng**
+* **Bản của Blackixx đã bị dừng phát triển nhưng vẫn có người dùng**
 * [Bản mới thay thế](https://www.spigotmc.org/resources/playerpoints.80745/)
 
 ## [Plugin "tự code"](#plugin-t%E1%BB%B1-code)
@@ -51,12 +51,12 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Một số shop còn lợi dụng để lừa đảo, chiếm đoạt tiền của người dùng
 * [Bàn về tài khoản giá rẻ](https://minecraftvn.net/acc-premium-gia-re-co-nen-mua.t33603/)
 
-## [Legacy version 1.8.x - 1.12.x](https://minecraft.fandom.com/wiki/Java_Edition_version_history)
+## [Phiên bản Legacy 1.8.x - 1.12.x](https://minecraft.fandom.com/wiki/Java_Edition_version_history)
 > Một lựa chọn tốt cho người chơi, nhưng là lựa chọn tệ nhất cho các server
 
 * [Tuổi của 1.8](https://howoldisminecraft188.today/)
 * [Tuổi của 1.12.2](https://howoldisminecraft1122.today/)
-* Dù vậy, 2 phiên bản 1.13 và 1.14 không được đánh giá cao ở hiệu năng khi source code game có nhiều thay đổi ở bản 1.13
+* Dù vậy, 2 phiên bản 1.13 và 1.14 không được đánh giá cao ở hiệu năng khi mã nguồn có nhiều thay đổi từ bản 1.13
 
 ## [P2W (Pay to win) Servers](https://minecraft-mp.com/country/vietnam/)
 > Donate để được đồ OP
@@ -77,8 +77,8 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
   * Xem thêm: [Yaptapia](https://kennytv.github.io/Yaptapia/)
   * Các lựa chọn thay thế: [Paper](https://papermc.io/), [Airplane](https://github.com/Technove/Airplane), [Tuinity](https://github.com/Spottedleaf/Tuinity) (Chuẩn bị sáp nhập với Paper), [Purpur](https://purpur.pl3x.net/)
 
-### [SugarcaneMC] (https://github.com/SugarcaneMC/Sugarcane)
-> Tương tự như [Yatopia](#Yatopia) nhưng vẫn đang được tiếp tục
+### [SugarcaneMC](https://github.com/SugarcaneMC/Sugarcane)
+> Tương tự như [Yatopia](#Yatopia-discontinued) nhưng vẫn đang được tiếp tục
 
 ### Plugin 'giảm lag' (e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg))
 > Vô dụng và gây lag nhiều hơn 'giảm lag'
@@ -177,6 +177,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * **Không một chút tôn trọng nào với người khác**
 * [The X/Y Problem](https://xyproblem.info/)
 * Tiếng Anh của họ gần như không có cũng như kĩ năng sử dụng Google của họ
+* Dành cho những người quá lười tới mức không thử trước khi hỏi: [try it and see](https://tryitands.ee/)
 
 ## [Server "free vĩnh viễn"](#server-free-vĩnh-viễn)
 > Tiền ít nhưng thích đú trend
