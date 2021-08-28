@@ -176,6 +176,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 
 * **Không một chút tôn trọng nào với người khác**
 * [The X/Y Problem](https://xyproblem.info/)
+* Tiếng Anh của họ gần như không có cũng như kĩ năng sử dụng Google của họ
 
 ## [Server "free vĩnh viễn"](#server-free-vĩnh-viễn)
 > Tiền ít nhưng thích đú trend
