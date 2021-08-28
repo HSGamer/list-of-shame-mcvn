@@ -171,6 +171,12 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Lựa chọn VPS dựa trên dung lượng RAM và số Core CPU có ?
 * Đem dạy lại sự ngu dốt cho người khác
 
+## [Hỏi như không hỏi](#hỏi-như-không-hỏi)
+> Muốn tìm kiếm câu trả lời nhưng lười biếng tới nỗi không thể nói ra được vấn đề của mình
+
+* **Không một chút tôn trọng nào với người khác**
+* [The X/Y Problem](https://xyproblem.info/)
+
 ## [Server "free vĩnh viễn"](#server-free-vĩnh-viễn)
 > Tiền ít nhưng thích đú trend
 
