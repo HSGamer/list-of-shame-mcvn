@@ -56,7 +56,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 
 * [Tuổi của 1.8](https://howoldisminecraft188.today/)
 * [Tuổi của 1.12.2](https://howoldisminecraft1122.today/)
-* Dù vậy, 2 phiên bản 1.13 và 1.14 không được đánh giá cao ở hiệu năng khi mã nguồn có nhiều thay đổi từ bản 1.13
+* Dù vậy, bản 1.13 trở về sau không được đánh giá cao ở hiệu năng khi mã nguồn có nhiều thay đổi gây ảnh hưởng đến hiệu năng (Entity Ticking, Entity Tracker,...)
 
 ## [P2W (Pay to win) Servers](https://minecraft-mp.com/country/vietnam/)
 > Donate để được đồ OP
