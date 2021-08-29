@@ -3,16 +3,16 @@
 Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ gì) gây tranh cãi trong cộng đồng Minecraft Việt Nam
 
 ## [ChestCommands](https://dev.bukkit.org/projects/chest-commands)
-> Plugin Menu đơn giản nhất, nhưng xóa mất PlayerPoints
+> Plugin Menu đơn giản nhất cho người mới, nhưng bị giới hạn tính năng
 
-* **Bản mới của nó đã xóa PlayerPoints**
-* Ai cũng xài bản siêu cũ chỉ để cho nó có hỗ trợ PlayerPoints (một plugin tiền tệ đã quá cũ)
-* Ai đó dùng bản mới thì cũng hỏi lên hỏi xuống vì người chơi server bug đồ bằng point
-* Code của nó khá khó để mở rộng tính năng
+* **Nhiều người vẫn còn dùng để làm menu, nhưng lại chạy bản cũ để hỗ trợ PlayerPoints (và nhiều lỗi hơn)**
+* Ai dùng bản mới thì hỏi lên hỏi xuống vì người chơi bug đồ bằng point
+* Code của nó rất khó để mở rộng tính năng
+* [Bản fork](https://www.spigotmc.org/resources/69014/) đã bị ngừng phát triển nhưng vẫn còn người cố gắng xài (đương nhiên là gặp lỗi)
 * Các lựa chọn thay thế: [BetterGUI](https://www.spigotmc.org/resources/75620/), [DeluxeMenus](https://www.spigotmc.org/resources/11734/),...
 
 ## [PlayerPoints](https://dev.bukkit.org/projects/playerpoints)
-> Một hệ thống tiền tệ mà được nhiều quản lý máy chủ người Việt Nam sử dụng
+> Một hệ thống tiền tệ mà nhiều quản lý máy chủ Việt Nam sử dụng
 
 * **Bản của Blackixx đã bị dừng phát triển nhưng vẫn có người dùng**
 * [Bản mới thay thế](https://www.spigotmc.org/resources/playerpoints.80745/)
