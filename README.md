@@ -9,7 +9,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Ai cũng xài bản siêu cũ chỉ để cho nó có hỗ trợ PlayerPoints (một plugin tiền tệ đã quá cũ)
 * Ai đó dùng bản mới thì cũng hỏi lên hỏi xuống vì người chơi server bug đồ bằng point
 * Code của nó khá khó để mở rộng tính năng
-* Các lựa chọn thay thế: [BetterGUI](https://www.spigotmc.org/resources/bettergui.75620/), [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/), [TrMenu](https://www.spigotmc.org/resources/trmenu-premium-modern-advanced-menu-plugin-1-8-1-16.83120/),...
+* Các lựa chọn thay thế: [BetterGUI](https://www.spigotmc.org/resources/75620/), [DeluxeMenus](https://www.spigotmc.org/resources/11734/),...
 
 ## [PlayerPoints](https://dev.bukkit.org/projects/playerpoints)
 > Một hệ thống tiền tệ mà được nhiều quản lý máy chủ người Việt Nam sử dụng
