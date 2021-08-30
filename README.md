@@ -15,7 +15,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 > Một hệ thống tiền tệ mà nhiều quản lý máy chủ Việt Nam sử dụng
 
 * **Bản của Blackixx đã bị dừng phát triển nhưng vẫn có người dùng**
-* [Bản mới thay thế](https://www.spigotmc.org/resources/playerpoints.80745/)
+* Các lựa chọn thay thế: [New PlayerPoints](https://www.spigotmc.org/resources/80745/), [OptEcoPrime](https://www.spigotmc.org/resources/95245/)
 
 ## [Plugin "tự code"](#plugin-t%E1%BB%B1-code)
 > Tự cao với khả năng code nhưng những gì làm được là plugin Join/Leave message với một đống tính năng thừa
