@@ -96,6 +96,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 > Vô dụng và gây lag nhiều hơn 'giảm lag'
 
   * Một lựa chọn chấp vá để giải quyết vấn đề về vật phẩm dưới đất và sinh entity: "thay vì sử dụng các tùy chỉnh despawn trong config, sao ta không gom cả đóng entity này vào một tác vụ lớn rồi xóa tất cả mỗi X giây"
+  * Spigot đã có tuỳ chọn để [chỉnh thời gian xoá vật phẩm (`item-despawn-rate`)](https://www.spigotmc.org/wiki/spigot-configuration/#:~:text=Controls%20the%20number%20of%20ticks,longer%20until%20they%20de-spawn\).)
   * Các lựa chọn thay thế: [mcvn-optimization-guide](https://minhh2792.gitbook.io/mcvn-optimization-guide/), [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization), [Server Optimization](https://www.spigotmc.org/threads/283181/)
 
 ## "Cracked" plugin ([BlackSpigot](https://blackspigot.com/), [DirectLeaks](https://directleaks.net/), [LeakMania](https://leakmania.co/),...)
