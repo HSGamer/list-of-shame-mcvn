@@ -63,7 +63,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Một số shop còn lợi dụng để lừa đảo, chiếm đoạt tiền của người dùng
 * [Bàn về tài khoản giá rẻ](https://minecraftvn.net/acc-premium-gia-re-co-nen-mua.t33603/)
 
-## [Phiên bản Legacy 1.8.x - 1.12.x](https://minecraft.fandom.com/wiki/Java_Edition_version_history)
+## [1.8.x - 1.12.x](https://minecraft.fandom.com/wiki/Java_Edition_version_history)
 > Một lựa chọn tốt cho người chơi, nhưng là lựa chọn tệ nhất cho các server
 
 * [Tuổi của 1.8](https://howoldisminecraft188.today/)
