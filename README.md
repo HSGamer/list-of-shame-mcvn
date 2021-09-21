@@ -49,7 +49,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Đây là cái quyết định uy tín của người được thuê code
 * Đôi lúc, đây cũng là chiêu của những quản trị viên muốn trả thù
 * Để tránh bị lộ, một số người còn cho làm [rối code](https://www.google.com/search?q=java+obfuscator) của họ
-* Trong một số vụ bóc phốt về Hack OP, những người này cũng có lí lẽ cho hành vi thêm backdoor là "để tránh bị [quỵt](http://tratu.soha.vn/dict/vn_vn/Qu%E1%BB%B5t)"
+* Trong một số vụ bóc phốt về Hack OP, những người này cũng có lí lẽ cho hành vi thêm backdoor là "để tránh bị [quỵt](https://vi.wiktionary.org/wiki/%C4%83n_qu%E1%BB%B5t#Ti%E1%BA%BFng_Vi%E1%BB%87t)"
 * [Juno Nguyễn](https://www.facebook.com/juno31.12): có nhiều tiền án về Backdoor, thậm chí có plugin còn được thêm vào danh sách đen của [Spigot Anti-Malware](https://www.spigotmc.org/resources/64982/)
 
 ![example](./images/thesieutoc-backdoor.png)
@@ -132,7 +132,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Thường thấy ở các bài quảng cáo server, các thành phần thường "xin làm staff" ở dưới phần bình luận
 * Tự kể ra thành tích cá nhân nhưng thực ra chả làm được gì
 * Thậm chí người đi xin staff chủ yếu là mấy thằng chả biết hoặc trình độ rất thấp
-* Chủ yếu để đem đi [khoe mẽ](http://tratu.soha.vn/dict/vn_vn/Khoe_m%E1%BA%BD)
+* Chủ yếu để đem đi [khoe mẽ](https://vi.wiktionary.org/wiki/khoe_m%E1%BA%BD#Ti%E1%BA%BFng_Vi%E1%BB%87t)
 * Có liên quan trong nhiều vụ [Hack OP](#hack-op)
 
 ## [Chế độ "gây tranh cãi"](#ch%E1%BA%BF-%C4%91%E1%BB%99-g%C3%A2y-tranh-c%C3%A3i)
