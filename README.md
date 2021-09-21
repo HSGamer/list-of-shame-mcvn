@@ -215,3 +215,5 @@ Danh sách này mang tính chất tham khảo. Chúng tôi tôn trọng tất c�
 > Inspiration from [list-of-shame](https://github.com/KennyTV/list-of-shame)
 
 > Credits for [our contributors](https://github.com/HSGamer/list-of-shame-mcvn/graphs/contributors)
+
+> Tips to speed up your [Minecraft Server (Vietnamese version)](https://minhh2792.github.io/mcvn-optimization-guide]
