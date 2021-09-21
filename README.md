@@ -1,6 +1,6 @@
 [![discussion](https://img.shields.io/badge/discussion-here-green)](https://github.com/HSGamer/list-of-shame-mcvn/discussions) [![issue](https://img.shields.io/badge/issue-here-yellow)](https://github.com/HSGamer/list-of-shame-mcvn/issues)
 # List Of Shame (MCVN Edition)
-Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ gì) gây tranh cãi trong cộng đồng Minecraft Việt Nam
+Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì) gây tranh cãi trong cộng đồng Minecraft Việt Nam
 
 ## [ChestCommands](https://dev.bukkit.org/projects/chest-commands)
 > Plugin Menu đơn giản nhất cho người mới, nhưng bị giới hạn tính năng
@@ -12,7 +12,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Các lựa chọn thay thế: [BetterGUI](https://www.spigotmc.org/resources/75620/), [DeluxeMenus](https://www.spigotmc.org/resources/11734/),...
 
 ## [PlayerPoints](https://dev.bukkit.org/projects/playerpoints)
-> Một hệ thống tiền tệ mà nhiều quản lý máy chủ Việt Nam sử dụng
+> Một hệ thống tiền tệ mà nhiều quản lý server Việt Nam sử dụng
 
 * **Bản của Blackixx đã bị dừng phát triển nhưng vẫn có người dùng**
 * Các lựa chọn thay thế: [New PlayerPoints](https://www.spigotmc.org/resources/80745/), [OptEcoPrime](https://www.spigotmc.org/resources/95245/)
@@ -154,7 +154,7 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
   * Có ít server làm tốt chế độ này 
   
 ### [Skyblock](https://minecraft.fandom.com/wiki/Tutorials/Skyblock)
-> Chế độ chơi rất hay nhưng bị `biến tấu` bởi các quản lí máy chủ.
+> Chế độ chơi rất hay nhưng bị `biến tấu` bởi các quản lí server.
 
   * **Đa số các server đều đã loại bỏ mục đích của chế độ này**
   * Đua top level đảo, đảo đẹp khiến cho chế độ này trở nên mất dần mục đích của nó
