@@ -110,7 +110,10 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
   * Nguyên nhân không phải do các trang đó (Được kiểm chứng: [LeakMania](https://forums.leakmania.co/))
   * Lí do xảy ra nhiều nhất là do bạn tải từ nguồn không tin cậy 
   * [Bàn về Anti-Releak](https://github.com/HSGamer/list-of-shame-mcvn/discussions/17)
-* Có nguy cơ dính mã độc từ các thằng crack không uy tín
+* Có nguy cơ dính mã độc từ các thằng crack không uy tín, thậm chí có thể lây lan sang các file khác
+
+![example](./images/MythicCraft-javassist.png)
+
 * Chất lượng bản crack thấp hơn bản chính (FeatherBoard go brrrrrrr)
 * Không được hỗ trợ từ tác giả chính gốc, và kể cả cộng đồng MCVN
 
