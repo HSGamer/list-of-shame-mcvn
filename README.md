@@ -21,11 +21,11 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 > Plugin quản lí nhiều thế giới, nhưng thường chỉ là thế giới spawn và sinh tồn
 
 * **Nhiều bài hướng dẫn làm server khuyên dùng để quản lí world, nên được cho là thừa**
-* Lỗi Regex dẫn đến sập server, đã sửa lỗi từ bản [4.3.1](https://www.spigotmc.org/resources/390/update?update=424085)
+* Lỗi Regex dẫn đến sập server
   * [Minecrash](https://minecraftvn.net/minecrash.t34539/)
   * [Pull Request](https://github.com/Multiverse/Multiverse-Core/pull/2445)
   * Issue: [#2703](https://github.com/Multiverse/Multiverse-Core/issues/2703), [#2704](https://github.com/Multiverse/Multiverse-Core/issues/2704), [#2705](https://github.com/Multiverse/Multiverse-Core/issues/2705)
-* Các lựa chọn thay thế: [PhantomWorlds](https://www.spigotmc.org/resources/84099/), [Multiverse-Core 4.3.1 trở lên](https://www.spigotmc.org/resources/390/update?update=424085), `Cần nhiều thông tin`
+* Các lựa chọn thay thế: [PhantomWorlds](https://www.spigotmc.org/resources/84099/), [Multiverse-Core 4.3.1 trở lên](https://www.spigotmc.org/resources/390/update?update=424085)
 
 ## [Plugin "tự code"](#plugin-t%E1%BB%B1-code)
 > Tự cao với khả năng code nhưng những gì làm được là plugin Join/Leave message với một đống tính năng thừa
