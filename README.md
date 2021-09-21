@@ -24,7 +24,8 @@ Danh sách những vật (người, máy chủ, dự án hoặc bất cứ thứ
 * Lỗi Regex dẫn đến sập server, đã sửa lỗi từ bản [4.3.1](https://www.spigotmc.org/resources/390/update?update=424085)
   * [Minecrash](https://minecraftvn.net/minecrash.t34539/)
   * [Pull Request](https://github.com/Multiverse/Multiverse-Core/pull/2445)
-* Các lựa chọn thay thế: [PhantomWorlds](https://www.spigotmc.org/resources/84099/), `Cần nhiều thông tin`
+  * Issue: [#2703](https://github.com/Multiverse/Multiverse-Core/issues/2703), [#2704](https://github.com/Multiverse/Multiverse-Core/issues/2704), [#2705](https://github.com/Multiverse/Multiverse-Core/issues/2705)
+* Các lựa chọn thay thế: [PhantomWorlds](https://www.spigotmc.org/resources/84099/), [Multiverse-Core 4.3.1 trở lên](https://www.spigotmc.org/resources/390/update?update=424085), `Cần nhiều thông tin`
 
 ## [Plugin "tự code"](#plugin-t%E1%BB%B1-code)
 > Tự cao với khả năng code nhưng những gì làm được là plugin Join/Leave message với một đống tính năng thừa
