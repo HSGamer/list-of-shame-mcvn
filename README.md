@@ -99,7 +99,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
   * Spigot đã có tuỳ chọn để [chỉnh thời gian xoá vật phẩm (`item-despawn-rate`)](https://www.spigotmc.org/wiki/spigot-configuration/#:~:text=Controls%20the%20number%20of%20ticks,longer%20until%20they%20de-spawn\).)
   * Các lựa chọn thay thế: [mcvn-optimization-guide](https://minhh2792.gitbook.io/mcvn-optimization-guide/), [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization), [Server Optimization](https://www.spigotmc.org/threads/283181/)
 
-## "Cracked" plugin
+## ["Cracked" plugin](#cracked-plugin)
 > Dùng các plugin phải mua một cách miễn phí, nhưng mất an toàn
 
 * **Một lựa chọn thay thế `tạm thời`, nhưng có vấn đề nếu lạm dụng quá nhiều**
