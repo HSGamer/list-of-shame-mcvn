@@ -99,7 +99,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
   * Spigot đã có tuỳ chọn để [chỉnh thời gian xoá vật phẩm (`item-despawn-rate`)](https://www.spigotmc.org/wiki/spigot-configuration/#:~:text=Controls%20the%20number%20of%20ticks,longer%20until%20they%20de-spawn\).)
   * Các lựa chọn thay thế: [mcvn-optimization-guide](https://minhh2792.gitbook.io/mcvn-optimization-guide/), [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization), [Server Optimization](https://www.spigotmc.org/threads/283181/)
 
-## "Cracked" plugin ([BlackSpigot](https://blackspigot.com/), [DirectLeaks](https://directleaks.net/), [LeakMania](https://leakmania.co/),...)
+## "Cracked" plugin
 > Dùng các plugin phải mua một cách miễn phí, nhưng mất an toàn
 
 * **Một lựa chọn thay thế `tạm thời`, nhưng có vấn đề nếu lạm dụng quá nhiều**
@@ -107,7 +107,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Việc cập nhật phụ thuộc vào thằng crack, nên mấy thằng xài crack nhận cập nhật trễ hơn, có thể là không có cập nhật luôn
 * Có rất nhiều bản crack từ chung một plugin, khó lựa chọn bản an toàn
 * Chính sách Anti-Releak của các trang đôi khi lại gây ảnh hưởng cho một số server ([Ví dụ](https://minecraftvn.net/sao-e-e-mo-sv-thi-bi-the-nay-ai-bt-giup-e-vs-a.t30637/), [Ví dụ 2](https://minecraftvn.net/the-file-is-damaged-please-re-download-the-file-and-check-again.t30496/),...)
-  * Nguyên nhân không phải do các trang đó (Được kiểm chứng: [LeakMania](https://forums.leakmania.co/))
+  * Nguyên nhân thường không phải do các trang đó
   * Lí do xảy ra nhiều nhất là do bạn tải từ nguồn không tin cậy 
   * [Bàn về Anti-Releak](https://github.com/HSGamer/list-of-shame-mcvn/discussions/17)
 * Có nguy cơ dính mã độc từ các thằng crack không uy tín, thậm chí có thể lây lan sang các file khác
