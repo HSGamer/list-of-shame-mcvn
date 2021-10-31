@@ -70,12 +70,13 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * [Tuổi của 1.12.2](https://howoldisminecraft1122.today/)
 * Dù vậy, bản 1.13 trở về sau không được đánh giá cao ở hiệu năng khi mã nguồn có nhiều thay đổi gây ảnh hưởng đến hiệu năng (Entity Ticking, Entity Tracker,...)
 
-## [P2W (Pay to win) Servers](https://minecraft-mp.com/country/vietnam/)
-> Donate để được đồ OP
+## [`offline-mode` Server VS EULA](https://minecraft-mp.com/country/vietnam/)
+> Nhiều sự tranh cãi về các server `offline-mode` và [EULA](https://account.mojang.com/documents/minecraft_eula) đối với các server đấy
 
-* **Một cách để dễ dàng để ăn tiền của người chơi mà không biết rằng họ đã vi phạm rất nhiều điều khoản trong [EULA](https://account.mojang.com/documents/minecraft_eula)**
-* Offline-mode server có thể *lách luật* một cách dễ dàng và nhiều server hiện tại của Việt Nam là P2W
-* Cách kiếm tiền từ server cũng gây tranh cãi vì sẽ còn tuỳ vào độ lớn, nổi tiếng của server và sự sáng tạo của các quản trị viên
+* **Do tính chất của thị trường Việt Nam, đa số server hiện nay đều là `offline-mode`**
+* Vẫn còn sự không rõ ràng trong [EULA](https://account.mojang.com/documents/minecraft_eula) đến các server offline-mode
+  * Các server có thể *lách luật* và dẫn đến nhiều chuyện về cách kiếm tiền, trong đó có dạng Pay-To-Win (P2W)
+  * Việc kiếm tiền từ server cũng gây tranh cãi vì sẽ còn tuỳ vào độ lớn, nổi tiếng của server và sự sáng tạo của các quản trị viên
 * [Phân tích EULA](https://datapools.github.io/MCEula/explanation), không chính thống nhưng có thể tham khảo
 
 ## [Tối ưu Server](https://minecraftvn.net/tut-tps.t32218/)
