@@ -27,12 +27,6 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
   * Issue: [#2703](https://github.com/Multiverse/Multiverse-Core/issues/2703), [#2704](https://github.com/Multiverse/Multiverse-Core/issues/2704), [#2705](https://github.com/Multiverse/Multiverse-Core/issues/2705)
 * Các lựa chọn thay thế: [PhantomWorlds](https://www.spigotmc.org/resources/84099/), [Multiverse-Core 4.3.1 trở lên](https://www.spigotmc.org/resources/390/update?update=424085)
 
-## [Plugin "tự code"](#plugin-t%E1%BB%B1-code)
-> Tự cao với khả năng code nhưng những gì làm được là plugin Join/Leave message với một đống tính năng thừa
-
-* Lấy plugin, chỉ thay đổi plugin.yml
-* Sử dụng code đã có sẵn trên spigotmc.org rồi copy và chỉnh sửa lại một chút. Nhưng tự nhận là `best developer`.
-
 ## ["Hack OP"](#hack-op)
 > Một loại "hack" mà 99% không phải do lỗi server
 
@@ -128,16 +122,6 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Tốn tiền mua file nhưng lại giống y hệt với file ở trên mạng, và không được hoàn tiền
 * Đôi lúc họ không chỉnh sửa gì nhưng lại tự nhận là file của họ tự làm
 * Độ sáng tạo cũng gây tranh cãi vì nó theo lối mòn của file đã chia sẻ
-
-## [Staff "tự xưng"](#staff-tự-xưng)
-> Staff nhưng hành xử thấp hơn người chơi
-
-* **Bọn bù nhìn, có thể quay ra phản bất kì lúc nào**
-* Thường thấy ở các bài quảng cáo server, các thành phần thường "xin làm staff" ở dưới phần bình luận
-* Tự kể ra thành tích cá nhân nhưng thực ra chả làm được gì
-* Thậm chí người đi xin staff chủ yếu là mấy thằng chả biết hoặc trình độ rất thấp
-* Chủ yếu để đem đi [khoe mẽ](https://vi.wiktionary.org/wiki/khoe_m%E1%BA%BD#Ti%E1%BA%BFng_Vi%E1%BB%87t)
-* Có liên quan trong nhiều vụ [Hack OP](#hack-op)
 
 ## [Chế độ "gây tranh cãi"](#ch%E1%BA%BF-%C4%91%E1%BB%99-g%C3%A2y-tranh-c%C3%A3i)
 > Không phải vì nó tệ, chỉ là nhiều server làm nó tệ
