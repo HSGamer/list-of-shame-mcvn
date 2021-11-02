@@ -169,7 +169,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 
 * **Các kiến thức về Timings Report, Optimization hầu như không có. Dù họ làm nhiều server khác nhau ?**
 * Luôn nghĩ rằng CPU càng nhiều core càng đỡ lag. [Nó đa luồng, chỉ là bản chất của Minecraft là chỉ chạy trên 1 nhân CPU](https://www.spigotmc.org/threads/rant-minecraft-is-not-single-threaded.462694/)
-* Dùng Analyzer Bot trong server Discord của BirdFlop Hosting, nhưng đó chỉ là hướng dẫn bạn config lại spigot.yml ? Phân tích timings ?
+* Dùng Timings Analyzer của một số server Discord, nhưng đó chỉ là hướng dẫn bạn config lại spigot.yml ? Phân tích timings ?
 * Lựa chọn VPS dựa trên dung lượng RAM và số Core CPU có ?
 * Đem dạy lại sự ngu dốt cho người khác
 
