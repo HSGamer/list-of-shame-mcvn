@@ -203,9 +203,11 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 > Máy chủ chất lượng "gà" của Việt Nam
  
   * Owner toxic, đi xúc phạm đến danh dự và nhân phẩm người khác trên mạng, lôi cha mẹ người khác ra làm trò đùa (?)
-  * Được Discord Partner nhưng máy chủ rất là inactive, nhiều khả năng là đi xin/buff member để được Discord Partner trái phép, lấy làm danh. Khi hỏi owner để xem trang Discord Insights của máy chủ thì owner không những từ chối mà lại còn chửi.
+  * Được Discord Partner nhưng máy chủ rất là inactive, nhiều khả năng là đi xin/buff member để được Discord Partner trái phép, lấy làm danh. Khi hỏi owner để xem trang Discord Insights của máy chủ thì owner không những từ chối mà lại còn chửi (đã làm đơn báo cáo đệ lên Discord, đang chờ xét duyệt).
   * Chiếm trang [Minecraftvn](https://minecraft.fandom.com/vi/wiki/Wiki_minecraftvn) trên [Minecraft Fandom](https://minecraft.fandom.com) (còn khóa trang để không cho người khác chỉnh sửa) để quảng cáo máy chủ trá hình, đăng các trang chỉ riêng cho máy chủ mình để phục vụ lợi ích cá nhân.
   * Máy chủ toàn dân "IT" nhưng không thể khắc phục 1 lỗi bảo mật XSS chục năm tuổi trên webserver, có cả trang tra IP public của từng member (lộ cả của owner 😂)
+  * Staff sẵn sàng ban từng member nào mà nhắc đến phốt của mình.
+![gaconmc-fandom.png](https://raw.githubusercontent.com/ThiccMC/list-of-shame-mcvn/main/images/gaconmc-fandom.png)
 
 # Đính chính
 Danh sách này mang tính chất tham khảo. Chúng tôi tôn trọng tất cả mọi người, những người ở danh sách này là do họ có những việc "gây tranh cãi", và những thứ trên đây không có nghĩa là bạn không nên tiếp xúc hay sử dụng chúng. Bạn có thể đọc cho vui, đừng làm nghiêm trọng quá và có thể chỉnh sửa bất kì chi tiết sai để giúp danh sách này hoàn thiện hơn.
