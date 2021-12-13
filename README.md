@@ -196,7 +196,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Đăng kí bằng Credit Card chùa, đây cũng là lý do một số trang nước ngoài block IP Việt Nam
 * Đem rao bán khắp nơi và tự tin bảo đảm hỗ trợ mọi mặt ?
 
-## [Phốt máy chủ](#máy-chủ-toxic)
+## [Phốt máy chủ](#phốt-máy-chủ)
 > Danh sách các máy chủ Minecraft Việt Nam mà các bạn không nên chơi
 
 ### [GaConMC](https://gaconmc.net)
