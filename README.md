@@ -9,7 +9,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Ai dùng bản mới thì hỏi lên hỏi xuống vì người chơi bug đồ bằng point
 * Code của nó rất khó để mở rộng tính năng
 * [Bản fork](https://www.spigotmc.org/resources/69014/) đã bị ngừng phát triển nhưng vẫn còn người cố gắng xài (đương nhiên là gặp lỗi)
-* Các lựa chọn thay thế: [BetterGUI](https://www.spigotmc.org/resources/75620/), [DeluxeMenus](https://www.spigotmc.org/resources/11734/),...
+* Các lựa chọn thay thế: [BetterGUI](https://www.spigotmc.org/resources/75620/), [DeluxeMenus](https://www.spigotmc.org/resources/11734/), [TrMenu](https://github.com/TrMenu/TrMenu/actions)
 
 ## [PlayerPoints](https://dev.bukkit.org/projects/playerpoints)
 > Một hệ thống tiền tệ mà nhiều quản lý server Việt Nam sử dụng
