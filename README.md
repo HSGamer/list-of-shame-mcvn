@@ -207,6 +207,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
   * Chiếm trang [Minecraftvn](https://minecraft.fandom.com/vi/wiki/Wiki_minecraftvn) trên [Minecraft Fandom](https://minecraft.fandom.com) (còn khóa trang để không cho người khác chỉnh sửa) để quảng cáo máy chủ trá hình, đăng các trang chỉ riêng cho máy chủ mình để phục vụ lợi ích cá nhân.
   * Máy chủ toàn dân "IT" nhưng không thể khắc phục 1 lỗi bảo mật XSS chục năm tuổi trên webserver, có cả trang tra IP public của từng member (lộ cả của owner 😂)
   * Staff sẵn sàng ban từng member nào mà nhắc đến phốt của mình.
+
 ![gaconmc-fandom.png](https://raw.githubusercontent.com/ThiccMC/list-of-shame-mcvn/main/images/gaconmc-fandom.png)
 
 # Đính chính
