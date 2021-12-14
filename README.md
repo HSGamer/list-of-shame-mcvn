@@ -48,6 +48,19 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 
 ![example](./images/thesieutoc-backdoor.png)
 
+## [DDOS & JoinBot](#ddos--joinbot)
+> Thử sức chịu đựng của server, nhưng lại trở thành tool để cạnh tranh không lành mạnh
+
+* **Đang được sử dụng với mục đích xấu**
+* Đây là vấn đề không chỉ riêng ở Minecraft, nhưng nó đủ nghiêm trọng vì tình trạng này ở cộng đồng Minecraft là nhiều
+* Một số người dùng tool này để tấn công các server mà họ ghét, không quan trọng vì lí do gì
+* Một số hội nhóm được lập ra, một số server Discord được lập ra...
+  * Họ có các dịch vụ để `thủ nghiệm bảo mật`
+  * Chưa thấy dấu hiệu có thể quản lí được mục đích sử dụng của các thành viên đã mua dịch vụ của họ
+* Trải lòng của một chủ server
+
+![PM](./images/ddos-pm.png)
+
 ## [Bán tài khoản, vật phẩm dạo](https://minecraftvn.net/members/siocoins.45295/)
 > Kiếm tiền lậu bằng công sức của người khác
 
@@ -100,14 +113,16 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * **Một lựa chọn thay thế `tạm thời`, nhưng có vấn đề nếu lạm dụng quá nhiều**
 * Độ an toàn của plugin phụ thuộc vào uy tín thằng crack, thường là rất ít
 * Việc cập nhật phụ thuộc vào thằng crack, nên mấy thằng xài crack nhận cập nhật trễ hơn, có thể là không có cập nhật luôn
-* Có rất nhiều bản crack từ chung một plugin, khó lựa chọn bản an toàn
+* Có rất nhiều bản crack từ chung một plugin, từ nhiều nguồn khác nhau, khó lựa chọn bản an toàn
+
+![evidence-1](./images/leak-evidence-1.png)
+
 * Chính sách Anti-Releak của các trang đôi khi lại gây ảnh hưởng cho một số server ([Ví dụ](https://minecraftvn.net/sao-e-e-mo-sv-thi-bi-the-nay-ai-bt-giup-e-vs-a.t30637/), [Ví dụ 2](https://minecraftvn.net/the-file-is-damaged-please-re-download-the-file-and-check-again.t30496/),...)
-  * Nguyên nhân thường không phải do các trang đó
   * Lí do xảy ra nhiều nhất là do bạn tải từ nguồn không tin cậy 
   * [Bàn về Anti-Releak](https://github.com/HSGamer/list-of-shame-mcvn/discussions/17)
 * Có nguy cơ dính mã độc từ các thằng crack không uy tín, thậm chí có thể lây lan sang các file khác
 
-![example](./images/MythicCraft-javassist.png)
+![MythicCraft-javassist](./images/MythicCraft-javassist.png)
 
 * Chất lượng bản crack thấp hơn bản chính (FeatherBoard go brrrrrrr)
 * Không được hỗ trợ từ tác giả chính gốc, và kể cả cộng đồng MCVN
@@ -195,19 +210,6 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Toàn hàng dùng thử từ Azure, Google Cloud, Amazon EC3.....
 * Đăng kí bằng Credit Card chùa, đây cũng là lý do một số trang nước ngoài block IP Việt Nam
 * Đem rao bán khắp nơi và tự tin bảo đảm hỗ trợ mọi mặt ?
-
-## [DDOS & JoinBot](#ddos--joinbot)
-> Thử sức chịu đựng của server, nhưng lại trở thành tool để cạnh tranh không lành mạnh
-
-* **Đang được sử dụng với mục đích xấu**
-* Đây là vấn đề không chỉ riêng ở Minecraft, nhưng nó đủ nghiêm trọng vì tình trạng này ở cộng đồng Minecraft là nhiều
-* Một số người dùng tool này để tấn công các server mà họ ghét, không quan trọng vì lí do gì
-* Một số hội nhóm được lập ra, một số server Discord được lập ra...
-  * Họ có các dịch vụ để `thủ nghiệm bảo mật`
-  * Chưa thấy dấu hiệu có thể quản lí được mục đích sử dụng của các thành viên đã mua dịch vụ của họ
-* Trải lòng của một chủ server
-
-![PM](images/ddos-pm.png)
 
 # Đính chính
 Danh sách này mang tính chất tham khảo. Chúng tôi tôn trọng tất cả mọi người, những người ở danh sách này là do họ có những việc "gây tranh cãi", và những thứ trên đây không có nghĩa là bạn không nên tiếp xúc hay sử dụng chúng. Bạn có thể đọc cho vui, đừng làm nghiêm trọng quá và có thể chỉnh sửa bất kì chi tiết sai để giúp danh sách này hoàn thiện hơn.
