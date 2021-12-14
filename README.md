@@ -196,6 +196,19 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Đăng kí bằng Credit Card chùa, đây cũng là lý do một số trang nước ngoài block IP Việt Nam
 * Đem rao bán khắp nơi và tự tin bảo đảm hỗ trợ mọi mặt ?
 
+## [DDOS & JoinBot](#ddos-joinbot)
+> Thử sức chịu đựng của server, nhưng lại trở thành tool để cạnh tranh không lành mạnh
+
+* **Đang được sử dụng với mục đích xấu**
+* Đây là vấn đề không chỉ riêng ở Minecraft, nhưng nó đủ nghiêm trọng vì tình trạng này ở cộng đồng Minecraft là nhiều
+* Một số người dùng tool này để tấn công các server mà họ ghét, không quan trọng vì lí do gì
+* Một số hội nhóm được lập ra, một số server Discord được lập ra...
+  * Họ có các dịch vụ để `thủ nghiệm bảo mật`
+  * Chưa thấy dấu hiệu có thể quản lí được mục đích sử dụng của các thành viên đã mua dịch vụ của họ
+* Trải lòng của một chủ server
+
+[ImageHere](imageHere)
+
 # Đính chính
 Danh sách này mang tính chất tham khảo. Chúng tôi tôn trọng tất cả mọi người, những người ở danh sách này là do họ có những việc "gây tranh cãi", và những thứ trên đây không có nghĩa là bạn không nên tiếp xúc hay sử dụng chúng. Bạn có thể đọc cho vui, đừng làm nghiêm trọng quá và có thể chỉnh sửa bất kì chi tiết sai để giúp danh sách này hoàn thiện hơn.
 
