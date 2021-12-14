@@ -196,7 +196,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Đăng kí bằng Credit Card chùa, đây cũng là lý do một số trang nước ngoài block IP Việt Nam
 * Đem rao bán khắp nơi và tự tin bảo đảm hỗ trợ mọi mặt ?
 
-## [DDOS & JoinBot](#ddos-joinbot)
+## [DDOS & JoinBot](#ddos--joinbot)
 > Thử sức chịu đựng của server, nhưng lại trở thành tool để cạnh tranh không lành mạnh
 
 * **Đang được sử dụng với mục đích xấu**
