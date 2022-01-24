@@ -25,7 +25,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
   * [Minecrash](https://minecraftvn.net/minecrash.t34539/)
   * [Pull Request](https://github.com/Multiverse/Multiverse-Core/pull/2445)
   * Issue: [#2703](https://github.com/Multiverse/Multiverse-Core/issues/2703), [#2704](https://github.com/Multiverse/Multiverse-Core/issues/2704), [#2705](https://github.com/Multiverse/Multiverse-Core/issues/2705)
-* Các lựa chọn thay thế: [PhantomWorlds](https://www.spigotmc.org/resources/84099/), [Multiverse-Core 4.3.1 trở lên](https://www.spigotmc.org/resources/390/update?update=424085)
+* Các lựa chọn thay thế: [Rift](https://www.spigotmc.org/resources/rift-world-manager.99359/), [PhantomWorlds](https://www.spigotmc.org/resources/84099/), [Multiverse-Core 4.3.1 trở lên](https://www.spigotmc.org/resources/390/update?update=424085)
 
 ## ["Hack OP"](#hack-op)
 > Một loại "hack" mà 99% không phải do lỗi server
