@@ -15,7 +15,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 > Một hệ thống tiền tệ mà nhiều quản lý server Việt Nam sử dụng
 
 * **Bản của Blackixx đã bị dừng phát triển nhưng vẫn có người dùng**
-* Các lựa chọn thay thế: [New PlayerPoints](https://www.spigotmc.org/resources/80745/), [OptEcoPrime](https://www.spigotmc.org/resources/95245/)
+* Các lựa chọn thay thế: [New PlayerPoints](https://www.spigotmc.org/resources/80745/)
 
 ## [Multiverse(-Core)](https://www.spigotmc.org/resources/multiverse-core.390/)
 > Plugin quản lí nhiều thế giới, nhưng thường chỉ là thế giới spawn và sinh tồn
