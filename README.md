@@ -32,7 +32,9 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 
 * **Cho thấy sự thiếu kĩ lưỡng trong việc quản lí bảo mật cho server**
 * Đây KHÔNG phải là một loại hack nằm trong một tool hack
-* Các hình thức bao gồm: dò cổng (port), mua chuộc, lợi dụng sự thiếu hiểu biết của chủ server
+* Các hình thức bao gồm
+  * Yếu tố phần cứng / phần mềm: dò cổng (port), lợi dụng tường lửa kém
+  * Yếu tố con người: mua chuộc, làm phản, lợi dụng sự thiếu hiểu biết của chủ server
 * Một số server "chặn" hack này một cách sơ sài bằng cách cài plugin đăng kí/đăng nhập cho tất cả cụm server con
 * Một số khác thêm các plugin khá dư thừa (`AntiBungeeHack`, `AntiOP`,...)
 
