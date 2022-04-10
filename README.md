@@ -160,13 +160,12 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 > Chế độ chơi rất hay nhưng bị `biến tấu` bởi các quản lí server.
 
   * **Đa số các server đều đã loại bỏ mục đích của chế độ này**
-  * Đua top level đảo, đảo đẹp khiến cho chế độ này trở nên mất dần mục đích của nó
+  * Đua top đảo đẹp khiến cho chế độ này trở nên mất dần mục đích của nó
   * Kiểu game sinh tồn nhưng lại có khu vực pvp để pk ?
   * Tại sao keep inventory ?
   * Nước + Hàng Rào ? Nước + Nước ?
   * Dù đã trải qua rất nhiều năm nhưng OreGen vẫn tồn tại ở thể loại này
   * Trào lưu plugin `/kho` (IHopper, Code riêng,...)
-  * Các staff trong các server này thường là những thằng không hiểu biết, như đã liệt kê trong [Staff "tự xưng"](#staff-tự-xưng)
 
 ## [Scammer (lừa đảo)](#scammer-lừa-đảo)
 > Ra giá cắt cổ cho một chức năng đơn giản
