@@ -7,7 +7,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 
 * **Nhiều người vẫn còn dùng để làm menu, nhưng lại chạy bản cũ để hỗ trợ PlayerPoints (và nhiều lỗi hơn)**
 * Ai dùng bản mới thì hỏi lên hỏi xuống vì người chơi bug đồ bằng point
-* Code của nó rất khó để mở rộng tính năng
+* "Code của nó rất khó để mở rộng tính năng" - Tác giả của [BetterGUI](https://www.spigotmc.org/resources/75620/)
 * [Bản fork](https://www.spigotmc.org/resources/69014/) đã bị ngừng phát triển nhưng vẫn còn người cố gắng xài (đương nhiên là gặp lỗi)
 * Các lựa chọn thay thế: [BetterGUI](https://www.spigotmc.org/resources/75620/), [DeluxeMenus](https://www.spigotmc.org/resources/11734/), [TrMenu](https://github.com/TrMenu/TrMenu/actions),...
 
