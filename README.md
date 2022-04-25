@@ -50,7 +50,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 
 ![example](./images/thesieutoc-backdoor.png)
 
-## [DDOS & JoinBot](#ddos--joinbot)
+## [DDoS & JoinBot](#ddos--joinbot)
 > Thử sức chịu đựng của server, nhưng lại trở thành tool để cạnh tranh không lành mạnh
 
 * **Đang được sử dụng với mục đích xấu**
