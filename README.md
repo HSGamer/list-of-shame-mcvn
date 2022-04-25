@@ -179,7 +179,10 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 
 ![example](./images/scammer.png)
 
-* Nhận biết những đối tượng này rất dễ. Một trong biểu hiệu dễ nhận ra nhất là bán giá trời cho một sản phẩm không có giá như vậy.
+* Nhận biết những đối tượng này rất dễ. Tìm hiểu trước giá của sản phẩm trên thị trường và so nó với giá của những người này.
+  * Sản phẩm đơn giản, ít thú vị nhưng cho giá rất cao
+  * Sản phẩm tầm trung, bình thường nhưng cho giá cực rẻ. Thường những người này sẽ [cao chạy xa bay](http://tratu.soha.vn/dict/vn_vn/Cao_ch%E1%BA%A1y_xa_bay) cùng với số tiền mà bạn gửi cho họ, mà bạn không được nhận sản phẩm đó.
+* [Tiền Nào Của Nấy](http://tratu.soha.vn/dict/vn_vn/Ti%E1%BB%81n_n%C3%A0o_c%E1%BB%A7a_%E1%BA%A5y)
 
 ## [Kiến thức "chém gió"](#kiến-thức-chém-gió)
 > Những kiến thức, kĩ năng cần có thì lại không có
