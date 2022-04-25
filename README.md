@@ -92,16 +92,14 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 ## [Tối ưu Server](https://minecraftvn.net/tut-tps.t32218/)
 > Thêm nhiều tính năng "độc lạ" và sử dụng các plugin gây lag để 'giảm lag'
 
-### [Yatopia (discontinued)](https://github.com/YatopiaMC/Yatopia)
+### Paper Fork 'All-in-One' (e.g. [Yatopia (discontinued)](https://github.com/YatopiaMC/Yatopia), [SugarcaneMC](https://github.com/SugarcaneMC/Sugarcane),...)
 > The Most Unstable and Glitch Rich Minecraft Server Software
  
-  * Chỉ dành cho những người chả hiểu cách mà hệ thống patch hoạt động.
   * Bản fork của Paper với slogan chất nhưng hiệu năng và tính năng đem lại chỉ khiến bạn muốn xóa file server.
+  * Một số tối ưu có thể gây xung đột với một số plugin
+  * Một số tối ưu chưa được thử nghiệm kĩ dẫn đến Crash, Giật lag, Tụt khung hình, Lỗi đồ hoạ,...
   * Xem thêm: [Yaptapia](https://kennytv.github.io/Yaptapia/)
-  * Các lựa chọn thay thế: [Paper](https://papermc.io/), [Airplane](https://github.com/Technove/Airplane), [Purpur](https://purpur.pl3x.net/)
-
-### [SugarcaneMC](https://github.com/SugarcaneMC/Sugarcane)
-> Tương tự như [Yatopia](#Yatopia-discontinued) nhưng vẫn đang được tiếp tục
+  * Các lựa chọn thay thế: [Paper](https://papermc.io/), [Airplane](https://github.com/Technove/Airplane), [Purpur](https://purpur.pl3x.net/), [Pufferfish](https://github.com/pufferfish-gg/Pufferfish)
 
 ### Plugin 'giảm lag' (e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg))
 > Vô dụng và gây lag nhiều hơn 'giảm lag'
