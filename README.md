@@ -99,7 +99,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
   * Một số tối ưu có thể gây xung đột với một số plugin
   * Một số tối ưu chưa được thử nghiệm kĩ dẫn đến Crash, Giật lag, Tụt khung hình, Lỗi đồ hoạ,...
   * Xem thêm: [Yaptapia](https://kennytv.github.io/Yaptapia/)
-  * Các lựa chọn thay thế: [Paper](https://papermc.io/), [Airplane](https://github.com/Technove/Airplane), [Purpur](https://purpur.pl3x.net/), [Pufferfish](https://github.com/pufferfish-gg/Pufferfish)
+  * Các lựa chọn thay thế: [Paper](https://papermc.io/), [Purpur](https://purpurmc.org/), [Pufferfish](https://github.com/pufferfish-gg/Pufferfish)
 
 ### Plugin 'giảm lag' (e.g. [ClearLagg](https://dev.bukkit.org/projects/clearlagg))
 > Vô dụng và gây lag nhiều hơn 'giảm lag'
