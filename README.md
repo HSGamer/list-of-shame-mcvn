@@ -202,7 +202,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 ## [Server "free vĩnh viễn"](#server-free-vĩnh-viễn)
 > Tiền ít nhưng thích đú trend
 
-* **"Free, thời hạn, cùi" hoặc "trả phí, có thời hạn, xịn" ? Chọn đi**
+* **"Miễn phí và Cùi" hoặc "Trả phí và Xịn", hướng nào cũng có thời hạn**
 * Nơi duy nhất có thể "free vĩnh viễn" là `localhost`, `127.0.0.1`
 * Những nơi quảng cáo là có thể cho server "free vĩnh viễn" thì 100% lừa đảo
 * Những ai muốn có server "free vĩnh viễn" để kiếm tiền thì nên suy nghĩ lại
