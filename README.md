@@ -35,6 +35,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Các hình thức bao gồm
   * Yếu tố phần cứng / phần mềm: dò cổng (port), lợi dụng tường lửa kém, host kém bảo mật
   * Yếu tố con người: mua chuộc, làm phản, lợi dụng sự thiếu hiểu biết của chủ server
+* Một số tool hack quảng bá là có thể Hack OP nhưng thật ra là lợi dụng lỗ hổng của server
 * Một số server "chặn" hack này một cách sơ sài bằng cách cài plugin đăng kí/đăng nhập cho tất cả cụm server con
 * Một số khác thêm các plugin khá dư thừa (`AntiBungeeHack`, `AntiOP`,...)
 
@@ -66,7 +67,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 ## [Bán tài khoản, vật phẩm dạo](https://minecraftvn.net/members/siocoins.45295/)
 > Kiếm tiền lậu bằng công sức của người khác
 
-* **Kiếm tiền bằng cách này thì dùng có kiếm được bao nhiêu thì vẫn chả phải tiền bạn làm ra**
+* **Kiếm tiền bằng cách này thì dù có kiếm được bao nhiêu thì vẫn chả phải tiền bạn làm ra**
 * Bán vật phẩm, Booster của các server lớn (e.g [Hypixel](https://hypixel.net/)) bằng tiền mặt, bất chấp các điều khoản Người Chơi của các server đó
 * Nhiều shop bán tài khoản Minecraft mở ra nhưng chỉ duy trì được trong một thời gian ngắn
 * Một số shop còn lợi dụng để lừa đảo, chiếm đoạt tiền của người dùng
@@ -125,7 +126,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 
 ![MythicCraft-javassist](./images/MythicCraft-javassist.png)
 
-* Chất lượng bản crack thấp hơn bản chính (FeatherBoard go brrrrrrr)
+* Chất lượng bản crack thấp hơn bản chính
 * Không được hỗ trợ từ tác giả chính gốc, và kể cả cộng đồng MCVN
 
 ## [Server "mì ăn liền"](#server-mì-ăn-liền)
@@ -145,7 +146,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Một số server thêm nhiều tính năng phức tạp nhưng lại không có hướng dẫn rõ ràng cho người mới
 * Một số server theo lối mòn từ các server khác
 * Không thống nhất được một chủ đề, ngôn ngữ trong server
-* Nhiều server chỉ đơn giản mua, download từ trên mạng về, và chỉnh sửa một tí, hoặc không, rồi đem up server
+* Nhiều server chỉ đơn giản mua, download từ trên mạng về, và chỉnh sửa một tí, hoặc không, rồi đem mở server
 * Vật phẩm trong server không cân bằng
 * Vẫn có nhiều server hay nhưng lại bị bỏ quên đâu đó trong xã hội
 
@@ -191,7 +192,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Lựa chọn VPS dựa trên dung lượng RAM và số Core CPU có ?
 * Đem dạy lại sự ngu dốt cho người khác
 
-## [Hỏi như không hỏi](#hỏi-như-không-hỏi)
+## [Hỏi "lạc đề"](#hỏi-lạc-đề)
 > Muốn tìm kiếm câu trả lời nhưng lười biếng tới nỗi không thể nói ra được vấn đề của mình
 
 * **Không một chút tôn trọng nào với người khác**
