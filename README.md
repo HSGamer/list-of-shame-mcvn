@@ -22,12 +22,12 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 
 * **Nhiều bài hướng dẫn làm server khuyên dùng để quản lí world, nên được cho là thừa**
 * Lỗi Regex dẫn đến sập server
-  * [Minecrash](https://minecraftvn.net/minecrash.t34539/)
+  * [Minecrash](https://minevn.net/minecrash.t34539/)
   * [Pull Request](https://github.com/Multiverse/Multiverse-Core/pull/2445)
   * Issue: [#2703](https://github.com/Multiverse/Multiverse-Core/issues/2703), [#2704](https://github.com/Multiverse/Multiverse-Core/issues/2704), [#2705](https://github.com/Multiverse/Multiverse-Core/issues/2705)
 * Các lựa chọn thay thế: [PhantomWorlds](https://www.spigotmc.org/resources/84099/), [Multiverse-Core 4.3.1 trở lên](https://www.spigotmc.org/resources/390/update?update=424085)
 
-## ["Hack OP"](#hack-op)
+## "Hack OP"
 > Một loại "hack" mà 99% không phải do lỗi server
 
 * **Cho thấy sự thiếu kĩ lưỡng trong việc quản lí bảo mật cho server**
@@ -39,7 +39,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Một số server "chặn" hack này một cách sơ sài bằng cách cài plugin đăng kí/đăng nhập cho tất cả cụm server con
 * Một số khác thêm các plugin khá dư thừa (`AntiBungeeHack`, `AntiOP`,...)
 
-## [Backdoor & Malware](#backdoor--malware)
+## Backdoor & Malware
 > Đã thuê code còn cài mã độc vào
 
 * **Một cách [Hack OP](#hack-op) cũ, chuyên môn trung bình, nhưng nhắm vào đối tượng ngây thơ và gây thiệt hại lớn**
@@ -51,7 +51,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 
 ![example](./images/thesieutoc-backdoor.png)
 
-## [DoS, DDoS & JoinBot](#ddos--joinbot)
+## DoS, DDoS & JoinBot
 > Thử sức chịu đựng của server, nhưng lại trở thành tool để cạnh tranh không lành mạnh
 
 * **Đang được sử dụng với mục đích xấu**
@@ -64,14 +64,14 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 
 ![PM](./images/ddos-pm.png)
 
-## [Bán tài khoản, vật phẩm dạo](https://minecraftvn.net/members/siocoins.45295/)
+## Bán tài khoản, vật phẩm dạo
 > Kiếm tiền lậu bằng công sức của người khác
 
 * **Kiếm tiền bằng cách này thì dù có kiếm được bao nhiêu thì vẫn chả phải tiền bạn làm ra**
 * Bán vật phẩm, Booster của các server lớn (e.g [Hypixel](https://hypixel.net/)) bằng tiền mặt, bất chấp các điều khoản Người Chơi của các server đó
 * Nhiều shop bán tài khoản Minecraft mở ra nhưng chỉ duy trì được trong một thời gian ngắn
 * Một số shop còn lợi dụng để lừa đảo, chiếm đoạt tiền của người dùng
-* [Bàn về tài khoản giá rẻ](https://minecraftvn.net/acc-premium-gia-re-co-nen-mua.t33603/)
+* [Bàn về tài khoản giá rẻ](https://minevn.net/acc-premium-gia-re-co-nen-mua.t33603/)
 
 ## [1.8.x - 1.12.x](https://minecraft.fandom.com/wiki/Java_Edition_version_history)
 > Một lựa chọn tốt cho người chơi, nhưng là lựa chọn tệ nhất cho các server
@@ -79,9 +79,8 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * [Tuổi của 1.8](https://minecrafts.date/1.8.8)
 * [Tuổi của 1.12.2](https://minecrafts.date/1.12.2)
 * Dù vậy, bản 1.13 trở về sau không được đánh giá cao ở hiệu năng khi mã nguồn có nhiều thay đổi gây ảnh hưởng đến hiệu năng (Entity Ticking, Entity Tracker,...)
-  * Có thể sử dụng [L-Clearlag](https://www.spigotmc.org/resources/l-clearlag.98464/) để xử lí vấn đề này một phần
 
-## [`offline-mode` Server VS EULA](https://minecraft-mp.com/country/vietnam/)
+## `offline-mode` Server VS EULA
 > Nhiều sự tranh cãi về các server `offline-mode` và [EULA](https://account.mojang.com/documents/minecraft_eula) đối với các server đấy
 
 * **Do tính chất của thị trường Việt Nam, đa số server hiện nay đều là `offline-mode`**
@@ -90,7 +89,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
   * Việc kiếm tiền từ server cũng gây tranh cãi vì sẽ còn tuỳ vào độ lớn, nổi tiếng của server và sự sáng tạo của các quản trị viên
 * [Phân tích EULA](https://datapools.github.io/MCEula/explanation), không chính thống nhưng có thể tham khảo
 
-## [Tối ưu Server](https://minecraftvn.net/tut-tps.t32218/)
+## Tối ưu Server
 > Thêm nhiều tính năng "độc lạ" và sử dụng các plugin gây lag để 'giảm lag'
 
 ### Paper Fork 'All-in-One' (e.g. [Yatopia (discontinued)](https://github.com/YatopiaMC/Yatopia), [SugarcaneMC](https://github.com/SugarcaneMC/Sugarcane),...)
@@ -107,9 +106,9 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 
   * Một lựa chọn chấp vá để giải quyết vấn đề về vật phẩm dưới đất và sinh entity: "thay vì sử dụng các tùy chỉnh despawn trong config, sao ta không gom cả đóng entity này vào một tác vụ lớn rồi xóa tất cả mỗi X giây"
   * Spigot đã có tuỳ chọn để [chỉnh thời gian xoá vật phẩm (`item-despawn-rate`)](https://www.spigotmc.org/wiki/spigot-configuration/#:~:text=Controls%20the%20number%20of%20ticks,longer%20until%20they%20de-spawn\).)
-  * Các lựa chọn thay thế: [mcvn-optimization-guide](https://minhh2792.is-a.dev/mcvn-optimization-guide/), [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization), [paper-optimization](https://eternity.community/index.php/paper-optimization/), [Server Optimization](https://www.spigotmc.org/threads/283181/)
+  * Các lựa chọn thay thế: [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization), [paper-optimization](https://paper-chan.moe/paper-optimization/)
 
-## ["Cracked" plugin](#cracked-plugin)
+## "Cracked" plugin
 > Dùng các plugin phải mua một cách miễn phí, nhưng mất an toàn
 
 * **Một lựa chọn thay thế `tạm thời`, nhưng có vấn đề nếu lạm dụng quá nhiều**
@@ -119,7 +118,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 
 ![evidence-1](./images/leak-evidence-1.png)
 
-* Chính sách Anti-Releak của các trang đôi khi lại gây ảnh hưởng cho một số server ([Ví dụ](https://minecraftvn.net/sao-e-e-mo-sv-thi-bi-the-nay-ai-bt-giup-e-vs-a.t30637/), [Ví dụ 2](https://minecraftvn.net/the-file-is-damaged-please-re-download-the-file-and-check-again.t30496/),...)
+* Chính sách Anti-Releak của các trang đôi khi lại gây ảnh hưởng cho một số server ([Ví dụ](https://minevn.net/sao-e-e-mo-sv-thi-bi-the-nay-ai-bt-giup-e-vs-a.t30637/), [Ví dụ 2](https://minevn.net/the-file-is-damaged-please-re-download-the-file-and-check-again.t30496/),...)
   * Lí do xảy ra nhiều nhất là do bạn tải từ nguồn không tin cậy 
   * [Bàn về Anti-Releak](https://github.com/HSGamer/list-of-shame-mcvn/discussions/17)
 * Có nguy cơ dính mã độc từ các nguồn crack không uy tín, thậm chí có thể lây lan sang các file khác
@@ -129,7 +128,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Chất lượng bản crack thấp hơn bản chính
 * Không được hỗ trợ từ tác giả chính gốc, và kể cả cộng đồng MCVN
 
-## [Server "mì ăn liền"](#server-mì-ăn-liền)
+## Server "mì ăn liền"
 > Server "xịn", nhưng công sức là do thằng khác
 
 * **Thiếu sáng tạo và cho thấy độ lười trong việc làm server**
@@ -140,7 +139,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Đôi lúc họ không chỉnh sửa gì nhưng lại tự nhận là file của họ tự làm
 * Độ sáng tạo cũng gây tranh cãi vì nó theo lối mòn của file đã chia sẻ
 
-## [Chế độ "gây tranh cãi"](#ch%E1%BA%BF-%C4%91%E1%BB%99-g%C3%A2y-tranh-c%C3%A3i)
+## Chế độ "gây tranh cãi"
 > Không phải vì nó tệ, chỉ là nhiều server làm nó tệ
 
 * Một số server thêm nhiều tính năng phức tạp nhưng lại không có hướng dẫn rõ ràng cho người mới
@@ -169,7 +168,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
   * Dù đã trải qua rất nhiều năm nhưng OreGen vẫn tồn tại ở thể loại này
   * Trào lưu plugin `/kho` (IHopper, Code riêng,...)
 
-## [Scammer (lừa đảo)](#scammer-lừa-đảo)
+## Scammer (lừa đảo)
 > Ra giá cắt cổ cho một chức năng đơn giản
 
 * **Đa phần là mấy thằng ăn trộm/ăn cắp một số các trang web nước ngoài rồi chỉnh sửa lại**
@@ -183,7 +182,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
   * Sản phẩm tầm trung, bình thường nhưng cho giá cực rẻ. Thường những người này sẽ [cao chạy xa bay](http://tratu.soha.vn/dict/vn_vn/Cao_ch%E1%BA%A1y_xa_bay) cùng với số tiền mà bạn gửi cho họ, mà bạn không được nhận sản phẩm đó.
 * [Tiền Nào Của Nấy](http://tratu.soha.vn/dict/vn_vn/Ti%E1%BB%81n_n%C3%A0o_c%E1%BB%A7a_%E1%BA%A5y)
 
-## [Kiến thức "chém gió"](#kiến-thức-chém-gió)
+## Kiến thức "chém gió"
 > Những kiến thức, kĩ năng cần có thì lại không có
 
 * **Các kiến thức về Timings Report, Optimization hầu như không có. Dù họ làm nhiều server khác nhau ?**
@@ -192,7 +191,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Lựa chọn VPS dựa trên dung lượng RAM và số Core CPU có ?
 * Đem dạy lại sự ngu dốt cho người khác
 
-## [Hỏi "lạc đề"](#hỏi-lạc-đề)
+## Hỏi "lạc đề"
 > Muốn tìm kiếm câu trả lời nhưng lười biếng tới nỗi không thể nói ra được vấn đề của mình
 
 * **Không một chút tôn trọng nào với người khác**
@@ -200,7 +199,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Tiếng Anh của họ gần như không có cũng như kĩ năng sử dụng Google của họ
 * Dành cho những người quá lười tới mức không thử trước khi hỏi: [try it and see](https://tryitands.ee/)
 
-## [Server "free vĩnh viễn"](#server-free-vĩnh-viễn)
+## Server "free vĩnh viễn"
 > Tiền ít nhưng thích đú trend
 
 * **"Miễn phí và Cùi" hoặc "Trả phí và Xịn", hướng nào cũng có thời hạn**
@@ -208,7 +207,7 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 * Những nơi quảng cáo là có thể cho server "free vĩnh viễn" thì 100% lừa đảo
 * Những ai muốn có server "free vĩnh viễn" để kiếm tiền thì nên suy nghĩ lại
 
-## [VPS giá "rẻ"](#vps-giá-rẻ)
+## VPS giá "rẻ"
 > Nó "rẻ" thật
 
 * Toàn hàng dùng thử từ Azure, Google Cloud, Amazon EC3.....
