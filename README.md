@@ -76,8 +76,8 @@ Danh sách những vật (người, server, dự án hoặc bất cứ thứ gì
 ## [1.8.x - 1.12.x](https://minecraft.fandom.com/wiki/Java_Edition_version_history)
 > Một lựa chọn tốt cho người chơi, nhưng là lựa chọn tệ nhất cho các server
 
-* [Tuổi của 1.8](https://minecrafts.date/1.8.8)
-* [Tuổi của 1.12.2](https://minecrafts.date/1.12.2)
+* ![1.8.8](https://img.shields.io/date/1438016400?label=1.8.8)
+* ![1.12.2](https://img.shields.io/date/1505754000?label=1.12.2)
 * Dù vậy, bản 1.13 trở về sau không được đánh giá cao ở hiệu năng khi mã nguồn có nhiều thay đổi gây ảnh hưởng đến hiệu năng (Entity Ticking, Entity Tracker,...)
 
 ## `offline-mode` Server VS EULA
